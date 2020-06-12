@@ -1,311 +1,311 @@
 residencia_provincia_nombre,residencia_departamento_nombre,n,confirmados,descartados,sospechosos,fallecidos,tests,sin.clasificar,letalidad.min.porc,letalidad.max.porc,positividad.porc,internados,internados.porc,cuidado.intensivo,cuidado.intensivo.porc,respirador,respirador.porc,dias.diagnostico,dias.apertura,dias.cuidado.intensivo,dias.fallecimiento
-Buenos Aires,*sin dato*,33,3,27,3,0,30,0,0,0,0.1,1,0.333,0,0,0,0,8.5,7,NaN,NaN
-Buenos Aires,25 de Mayo,39,1,34,4,0,35,0,0,0,0.029,0,0,0,0,0,0,2,1,NaN,NaN
-Buenos Aires,9 de Julio,121,5,113,3,0,115,0,0,0,0.043,1,0.2,0,0,0,0,4,3.8,NaN,NaN
-Buenos Aires,Adolfo Alsina,12,1,9,2,0,10,0,0,0,0.1,0,0,0,0,0,0,NaN,NaN,NaN,NaN
-Buenos Aires,Adolfo Gonzales Chaves,15,0,15,0,0,15,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Alberti,32,2,27,3,0,29,0,0,0,0.069,0,0,0,0,0,0,4,0,NaN,NaN
-Buenos Aires,Almirante Brown,2519,248,2063,208,7,2280,0,0.015,0.028,0.109,71,0.286,12,0.048,4,0.016,5.2,4,2.2,5.3
-Buenos Aires,Arrecifes,61,1,59,1,0,59,0,0,0,0.017,0,0,0,0,0,0,6,4,NaN,NaN
-Buenos Aires,Avellaneda,2175,460,1538,177,10,1988,0,0.016,0.022,0.231,111,0.241,13,0.028,4,0.009,5.4,4.1,4.8,11
-Buenos Aires,Ayacucho,49,1,46,2,0,43,0,0,0,0.023,1,1,0,0,0,0,2,2,NaN,NaN
-Buenos Aires,Azul,65,3,61,1,0,64,0,0,0,0.047,2,0.667,0,0,0,0,3.7,1.7,NaN,NaN
-Buenos Aires,Bahía Blanca,643,57,552,34,3,605,0,0.033,0.053,0.094,14,0.246,2,0.035,1,0.018,6.4,5.7,7.5,33
-Buenos Aires,Balcarce,68,1,67,0,0,63,0,0,0,0.016,0,0,0,0,0,0,4,4,NaN,NaN
-Buenos Aires,Baradero,56,5,45,6,0,50,0,0,0,0.1,1,0.2,0,0,0,0,6.8,5.4,NaN,NaN
-Buenos Aires,Benito Juárez,21,0,20,1,0,20,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Berazategui,1237,159,991,87,3,1146,0,0.012,0.019,0.139,70,0.44,5,0.031,0,0,5.1,3.8,5.6,30
-Buenos Aires,Berisso,373,22,329,22,0,349,0,0,0,0.063,3,0.136,1,0.045,0,0,3.9,2.9,2,NaN
-Buenos Aires,Bolívar,100,0,98,2,0,97,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Bragado,76,3,69,4,0,71,0,0,0,0.042,3,1,0,0,0,0,6.7,5,NaN,NaN
-Buenos Aires,Brandsen,93,9,83,1,0,90,0,0,0,0.1,2,0.222,0,0,0,0,7.4,5,NaN,NaN
-Buenos Aires,Campana,505,54,377,74,3,431,0,0.023,0.056,0.125,15,0.278,4,0.074,2,0.037,5.6,4,7.8,11
-Buenos Aires,Cañuelas,199,10,176,13,1,182,0,0.043,0.1,0.055,3,0.3,1,0.1,1,0.1,4.7,3.4,4,5
-Buenos Aires,Capitán Sarmiento,40,11,22,7,0,32,0,0,0,0.344,0,0,0,0,0,0,5,4,NaN,NaN
+Buenos Aires,*sin dato*,33,3,29,1,0,32,0,0,0,0.094,1,0.333,0,0,0,0,9.3,8.3,NaN,NaN
+Buenos Aires,25 de Mayo,42,1,37,4,0,38,0,0,0,0.026,0,0,0,0,0,0,2,1,NaN,NaN
+Buenos Aires,9 de Julio,124,5,116,3,0,118,0,0,0,0.042,1,0.2,0,0,0,0,4,3.8,NaN,NaN
+Buenos Aires,Adolfo Alsina,12,1,10,1,0,11,0,0,0,0.091,0,0,0,0,0,0,NaN,NaN,NaN,NaN
+Buenos Aires,Adolfo Gonzales Chaves,16,0,16,0,0,16,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Alberti,32,2,28,2,0,30,0,0,0,0.067,0,0,0,0,0,0,4,0,NaN,NaN
+Buenos Aires,Almirante Brown,2623,280,2161,182,7,2410,0,0.015,0.025,0.116,77,0.275,12,0.043,4,0.014,5.1,3.9,2.2,5.3
+Buenos Aires,Arrecifes,78,2,59,17,0,60,0,0,0,0.033,0,0,0,0,0,0,6,4,NaN,NaN
+Buenos Aires,Avellaneda,2287,490,1587,210,11,2067,0,0.016,0.022,0.237,119,0.243,13,0.027,4,0.008,5.4,4,4.8,10.7
+Buenos Aires,Ayacucho,49,1,47,1,0,44,0,0,0,0.023,1,1,0,0,0,0,2,2,NaN,NaN
+Buenos Aires,Azul,66,3,62,1,0,65,0,0,0,0.046,2,0.667,0,0,0,0,3.7,1.7,NaN,NaN
+Buenos Aires,Bahía Blanca,646,61,554,31,3,611,0,0.033,0.049,0.1,14,0.23,2,0.033,1,0.016,6.4,5.7,7.5,33
+Buenos Aires,Balcarce,70,1,67,2,0,63,0,0,0,0.016,0,0,0,0,0,0,4,4,NaN,NaN
+Buenos Aires,Baradero,57,5,49,3,0,54,0,0,0,0.093,1,0.2,0,0,0,0,6.8,5.4,NaN,NaN
+Buenos Aires,Benito Juárez,21,0,21,0,0,21,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Berazategui,1294,170,1043,81,3,1209,0,0.012,0.018,0.141,74,0.435,5,0.029,0,0,4.9,3.7,5.6,30
+Buenos Aires,Berisso,398,30,340,28,0,368,0,0,0,0.082,3,0.1,1,0.033,0,0,4.2,3.2,2,NaN
+Buenos Aires,Bolívar,104,0,100,4,0,99,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Bragado,79,3,72,4,0,74,0,0,0,0.041,3,1,0,0,0,0,6.7,5,NaN,NaN
+Buenos Aires,Brandsen,94,9,84,1,0,91,0,0,0,0.099,2,0.222,0,0,0,0,7.4,5,NaN,NaN
+Buenos Aires,Campana,523,54,382,87,3,436,0,0.021,0.056,0.124,15,0.278,4,0.074,2,0.037,5.6,4,7.8,11
+Buenos Aires,Cañuelas,202,11,184,7,1,191,0,0.056,0.091,0.058,3,0.273,1,0.091,1,0.091,4.7,3.4,4,5
+Buenos Aires,Capitán Sarmiento,53,13,22,18,0,34,0,0,0,0.382,0,0,0,0,0,0,4.7,3.5,NaN,NaN
 Buenos Aires,Carlos Casares,109,2,101,6,0,102,0,0,0,0.02,0,0,0,0,0,0,17,10,NaN,NaN
-Buenos Aires,Carlos Tejedor,18,1,17,0,0,18,0,0,0,0.056,0,0,0,0,0,0,3,3,NaN,NaN
-Buenos Aires,Carmen de Areco,37,1,34,2,0,30,0,0,0,0.033,0,0,0,0,0,0,1,0,NaN,NaN
+Buenos Aires,Carlos Tejedor,20,1,17,2,0,18,0,0,0,0.056,0,0,0,0,0,0,3,3,NaN,NaN
+Buenos Aires,Carmen de Areco,38,1,34,3,0,30,0,0,0,0.033,0,0,0,0,0,0,1,0,NaN,NaN
 Buenos Aires,Castelli,10,0,10,0,0,7,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Chacabuco,115,7,102,6,0,108,0,0,0,0.065,2,0.286,0,0,0,0,4.6,3.3,NaN,NaN
-Buenos Aires,Chascomús,83,7,75,1,0,81,0,0,0,0.086,2,0.286,0,0,0,0,5.3,0.9,NaN,NaN
-Buenos Aires,Chivilcoy,218,4,209,5,0,213,0,0,0,0.019,1,0.25,0,0,0,0,8,5.3,NaN,NaN
+Buenos Aires,Chacabuco,116,7,107,2,0,113,0,0,0,0.062,2,0.286,0,0,0,0,4.6,3.3,NaN,NaN
+Buenos Aires,Chascomús,84,7,76,1,0,82,0,0,0,0.085,2,0.286,0,0,0,0,5.3,0.9,NaN,NaN
+Buenos Aires,Chivilcoy,225,4,212,9,0,216,0,0,0,0.019,1,0.25,0,0,0,0,8,5.3,NaN,NaN
 Buenos Aires,Colón,26,3,22,1,0,25,0,0,0,0.12,0,0,0,0,0,0,6,2,NaN,NaN
-Buenos Aires,Coronel de Marina L. Rosales,56,1,54,1,0,55,0,0,0,0.018,1,1,0,0,0,0,0,1,NaN,NaN
+Buenos Aires,Coronel de Marina L. Rosales,62,1,55,6,0,56,0,0,0,0.018,1,1,0,0,0,0,0,1,NaN,NaN
 Buenos Aires,Coronel Dorrego,20,1,15,4,0,16,0,0,0,0.062,0,0,0,0,0,0,3,1,NaN,NaN
-Buenos Aires,Coronel Pringles,18,0,17,1,0,17,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Coronel Suárez,48,1,40,7,0,41,0,0,0,0.024,0,0,0,0,0,0,1,0,NaN,NaN
-Buenos Aires,Daireaux,22,1,20,1,0,21,0,0,0,0.048,1,1,0,0,0,0,16,6,NaN,NaN
-Buenos Aires,Dolores,26,3,20,3,0,22,0,0,0,0.136,3,1,0,0,0,0,8.5,6,NaN,NaN
-Buenos Aires,Ensenada,275,16,218,41,0,232,0,0,0,0.069,5,0.312,0,0,0,0,7.2,3.9,NaN,NaN
-Buenos Aires,Escobar,1150,179,853,118,10,1027,0,0.034,0.056,0.174,57,0.318,16,0.089,4,0.022,5.1,4,7.1,13.9
-Buenos Aires,Esteban Echeverría,1311,138,1093,80,0,1227,0,0,0,0.112,50,0.362,3,0.022,2,0.014,5.5,4.4,3.3,NaN
-Buenos Aires,Exaltación de la Cruz,113,10,92,11,2,102,0,0.095,0.2,0.098,6,0.6,2,0.2,1,0.1,5.1,4,4.5,23
-Buenos Aires,Ezeiza,1109,139,892,78,1,1029,0,0.005,0.007,0.135,41,0.295,5,0.036,2,0.014,5.2,4.2,6.8,33
-Buenos Aires,Florencio Varela,1602,178,1314,110,6,1477,0,0.021,0.034,0.121,66,0.371,8,0.045,4,0.022,6.1,4.6,12.6,18.7
-Buenos Aires,Florentino Ameghino,10,0,10,0,0,10,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,General Alvarado,42,0,42,0,0,39,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Coronel Pringles,19,0,17,2,0,17,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Coronel Suárez,50,1,40,9,0,41,0,0,0,0.024,0,0,0,0,0,0,1,0,NaN,NaN
+Buenos Aires,Daireaux,24,1,21,2,0,22,0,0,0,0.045,1,1,0,0,0,0,16,6,NaN,NaN
+Buenos Aires,Dolores,27,3,23,1,0,25,0,0,0,0.12,3,1,0,0,0,0,8.5,6,NaN,NaN
+Buenos Aires,Ensenada,300,26,239,35,0,263,0,0,0,0.099,5,0.192,0,0,0,0,6.4,3.7,NaN,NaN
+Buenos Aires,Escobar,1215,188,894,133,10,1077,0,0.031,0.053,0.175,60,0.319,16,0.085,4,0.021,5.2,4.1,7.1,13.9
+Buenos Aires,Esteban Echeverría,1363,152,1119,92,0,1267,0,0,0,0.12,56,0.368,4,0.026,2,0.013,5.4,4.2,3.5,NaN
+Buenos Aires,Exaltación de la Cruz,117,10,98,9,2,108,0,0.105,0.2,0.093,6,0.6,2,0.2,1,0.1,5.1,4,4.5,23
+Buenos Aires,Ezeiza,1143,152,920,71,2,1070,0,0.009,0.013,0.142,44,0.289,6,0.039,2,0.013,5.2,4,6.8,16.5
+Buenos Aires,Florencio Varela,1662,194,1375,93,6,1554,0,0.021,0.031,0.125,67,0.345,8,0.041,4,0.021,6.2,4.6,12.6,18.7
+Buenos Aires,Florentino Ameghino,11,0,10,1,0,10,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,General Alvarado,46,1,42,3,0,40,0,0,0,0.025,0,0,0,0,0,0,NaN,NaN,NaN,NaN
 Buenos Aires,General Alvear,8,0,8,0,0,8,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Buenos Aires,General Arenales,10,0,10,0,0,10,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Buenos Aires,General Belgrano,34,1,33,0,0,34,0,0,0,0.029,1,1,0,0,0,0,4,2,NaN,NaN
 Buenos Aires,General Guido,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,General Juan Madariaga,14,0,14,0,0,14,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,General La Madrid,56,0,54,2,0,54,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,General Las Heras,38,1,33,4,0,34,0,0,0,0.029,1,1,0,0,0,0,20,17,NaN,NaN
-Buenos Aires,General Lavalle,5,1,3,1,0,4,0,0,0,0.25,0,0,0,0,0,0,NaN,NaN,NaN,NaN
-Buenos Aires,General Paz,25,0,25,0,0,23,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,General Juan Madariaga,15,0,15,0,0,15,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,General La Madrid,57,0,55,2,0,55,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,General Las Heras,46,3,34,9,0,37,0,0,0,0.081,1,0.333,0,0,0,0,8,5.7,NaN,NaN
+Buenos Aires,General Lavalle,5,2,3,0,0,5,0,0,0,0.4,0,0,0,0,0,0,NaN,NaN,NaN,NaN
+Buenos Aires,General Paz,26,0,25,1,0,23,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Buenos Aires,General Pinto,19,0,19,0,0,19,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,General Pueyrredón,1071,39,1008,24,3,1034,0,0.048,0.077,0.038,15,0.385,3,0.077,2,0.051,5.3,3.9,6,16.3
-Buenos Aires,General Rodríguez,393,26,352,15,1,378,0,0.024,0.038,0.069,9,0.346,1,0.038,1,0.038,6.5,4.5,4,10
-Buenos Aires,General San Martín,2755,350,2224,181,21,2561,0,0.04,0.06,0.137,126,0.36,17,0.049,8,0.023,6,4.1,6.4,12.8
-Buenos Aires,General Viamonte,20,0,18,2,0,18,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,General Pueyrredón,1096,39,1030,27,3,1056,0,0.045,0.077,0.037,15,0.385,3,0.077,2,0.051,5.3,3.9,6,16.3
+Buenos Aires,General Rodríguez,405,26,360,19,1,386,0,0.022,0.038,0.067,9,0.346,1,0.038,1,0.038,6.5,4.5,4,10
+Buenos Aires,General San Martín,2824,368,2276,180,21,2631,0,0.038,0.057,0.14,131,0.356,17,0.046,8,0.022,6,4.1,6.4,12.8
+Buenos Aires,General Viamonte,20,0,20,0,0,20,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Buenos Aires,General Villegas,17,0,17,0,0,17,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Buenos Aires,Guaminí,15,1,13,1,0,14,0,0,0,0.071,1,1,0,0,0,0,5,2,NaN,NaN
 Buenos Aires,Hipólito Yrigoyen,15,0,15,0,0,14,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Hurlingham,834,70,694,70,0,762,0,0,0,0.092,21,0.3,1,0.014,0,0,6.2,4.1,22,NaN
-Buenos Aires,Ituzaingó,740,56,640,44,8,695,0,0.08,0.143,0.081,27,0.482,5,0.089,4,0.071,6.3,4,5.2,14.4
-Buenos Aires,José C. Paz,902,83,741,78,8,822,0,0.05,0.096,0.101,35,0.422,2,0.024,1,0.012,5.9,3.9,14.5,18.4
-Buenos Aires,Junín,192,2,181,9,0,182,0,0,0,0.011,1,0.5,0,0,0,0,5,1,NaN,NaN
-Buenos Aires,La Costa,106,4,97,5,0,91,0,0,0,0.044,3,0.75,0,0,0,0,3.3,1,NaN,NaN
-Buenos Aires,La Matanza,5838,762,4604,472,22,5359,0,0.018,0.029,0.142,248,0.325,22,0.029,10,0.013,5.2,4.1,4.9,11.9
-Buenos Aires,La Plata,2940,177,2604,159,8,2738,0,0.024,0.045,0.065,76,0.429,10,0.056,4,0.023,6.5,4.1,2.1,6.5
-Buenos Aires,Lanús,2450,314,1935,201,3,2240,0,0.006,0.01,0.14,91,0.29,6,0.019,1,0.003,5.7,4.4,4.3,7.3
+Buenos Aires,Hurlingham,864,73,719,72,0,790,0,0,0,0.092,21,0.288,1,0.014,0,0,6.2,4.1,22,NaN
+Buenos Aires,Ituzaingó,758,56,664,38,8,719,0,0.085,0.143,0.078,27,0.482,5,0.089,4,0.071,6.3,4,5.2,14.4
+Buenos Aires,José C. Paz,938,87,755,96,8,840,0,0.044,0.092,0.104,37,0.425,2,0.023,1,0.011,6,3.9,14.5,18.4
+Buenos Aires,Junín,196,2,188,6,0,189,0,0,0,0.011,1,0.5,0,0,0,0,5,1,NaN,NaN
+Buenos Aires,La Costa,115,4,102,9,0,96,0,0,0,0.042,3,0.75,0,0,0,0,3.3,1,NaN,NaN
+Buenos Aires,La Matanza,6185,836,4801,548,23,5630,0,0.017,0.028,0.148,255,0.305,22,0.026,10,0.012,5.2,4,4.9,11.4
+Buenos Aires,La Plata,3079,185,2701,193,8,2844,0,0.021,0.043,0.065,76,0.411,10,0.054,4,0.022,6.5,4,2.1,6.5
+Buenos Aires,Lanús,2591,334,2026,231,3,2351,0,0.005,0.009,0.142,96,0.287,6,0.018,1,0.003,5.7,4.5,4.3,7.3
 Buenos Aires,Laprida,14,1,13,0,0,14,0,0,0,0.071,0,0,0,0,0,0,5,5,NaN,NaN
-Buenos Aires,Las Flores,39,1,34,4,0,35,0,0,0,0.029,1,1,0,0,0,0,5,0,NaN,NaN
-Buenos Aires,Leandro N. Alem,26,1,21,4,1,22,0,0.2,1,0.045,1,1,1,1,0,0,1,0,0,1
-Buenos Aires,Lincoln,72,0,70,2,0,70,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Lobería,35,2,30,3,0,32,0,0,0,0.062,0,0,0,0,0,0,4,4,NaN,NaN
-Buenos Aires,Lobos,47,2,37,8,0,39,0,0,0,0.051,1,0.5,0,0,0,0,3.5,2.5,NaN,NaN
-Buenos Aires,Lomas de Zamora,2937,262,2436,239,4,2685,0,0.008,0.015,0.098,94,0.359,9,0.034,4,0.015,4.9,3.4,4,7.8
-Buenos Aires,Luján,515,43,457,15,3,499,0,0.052,0.07,0.086,16,0.372,2,0.047,1,0.023,5.7,4,14.5,16.7
+Buenos Aires,Las Flores,40,1,37,2,0,38,0,0,0,0.026,1,1,0,0,0,0,5,0,NaN,NaN
+Buenos Aires,Leandro N. Alem,26,1,24,1,1,25,0,0.5,1,0.04,1,1,1,1,0,0,1,0,0,1
+Buenos Aires,Lincoln,76,0,72,4,0,72,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Lobería,35,3,32,0,0,35,0,0,0,0.086,0,0,0,0,0,0,3.7,3.3,NaN,NaN
+Buenos Aires,Lobos,49,4,41,4,0,45,0,0,0,0.089,1,0.25,0,0,0,0,4,2.5,NaN,NaN
+Buenos Aires,Lomas de Zamora,3098,287,2525,286,5,2799,0,0.009,0.017,0.103,97,0.338,9,0.031,4,0.014,4.8,3.4,4,6.6
+Buenos Aires,Luján,535,43,467,25,3,509,0,0.044,0.07,0.084,16,0.372,2,0.047,1,0.023,5.7,4,14.5,16.7
 Buenos Aires,Magdalena,17,0,16,1,0,16,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Buenos Aires,Maipú,8,0,8,0,0,6,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Malvinas Argentinas,1449,146,1155,148,11,1300,0,0.037,0.075,0.112,50,0.342,4,0.027,2,0.014,5.4,4.4,28.5,6.7
-Buenos Aires,Mar Chiquita,38,1,35,2,0,33,0,0,0,0.03,0,0,0,0,0,0,3,3,NaN,NaN
-Buenos Aires,Marcos Paz,181,20,151,10,0,170,0,0,0,0.118,1,0.05,0,0,0,0,5.3,3.8,NaN,NaN
-Buenos Aires,Mercedes,104,5,88,11,0,91,0,0,0,0.055,3,0.6,2,0.4,0,0,5,4.5,4.5,NaN
-Buenos Aires,Merlo,2139,264,1704,171,21,1963,0,0.048,0.08,0.134,71,0.269,10,0.038,5,0.019,5.7,4,2.6,10
-Buenos Aires,Monte,32,0,29,3,0,28,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Monte Hermoso,16,1,13,2,0,14,0,0,0,0.071,1,1,0,0,0,0,16,11,NaN,NaN
-Buenos Aires,Moreno,1643,172,1374,97,9,1541,0,0.033,0.052,0.112,49,0.285,5,0.029,3,0.017,4.5,3,2,7
-Buenos Aires,Morón,1591,170,1327,94,10,1492,0,0.038,0.059,0.114,91,0.535,10,0.059,2,0.012,5.9,4.2,4.5,14.4
-Buenos Aires,Navarro,19,2,14,3,0,16,0,0,0,0.125,0,0,0,0,0,0,9,8,NaN,NaN
-Buenos Aires,Necochea,215,26,175,14,0,187,0,0,0,0.139,1,0.038,0,0,0,0,4.2,3.2,NaN,NaN
-Buenos Aires,Olavarría,192,3,183,6,0,184,0,0,0,0.016,3,1,0,0,0,0,4.3,3,NaN,NaN
+Buenos Aires,Malvinas Argentinas,1512,151,1180,181,11,1330,0,0.033,0.073,0.114,54,0.358,4,0.026,2,0.013,5.3,4.4,28.5,6.7
+Buenos Aires,Mar Chiquita,38,1,37,0,0,35,0,0,0,0.029,0,0,0,0,0,0,3,3,NaN,NaN
+Buenos Aires,Marcos Paz,191,20,158,13,0,177,0,0,0,0.113,1,0.05,0,0,0,0,5.3,3.8,NaN,NaN
+Buenos Aires,Mercedes,112,7,94,11,0,99,0,0,0,0.071,4,0.571,2,0.286,0,0,6.5,6,4.5,NaN
+Buenos Aires,Merlo,2228,280,1785,163,21,2060,0,0.047,0.075,0.136,73,0.261,11,0.039,5,0.018,5.7,4,2.3,10
+Buenos Aires,Monte,34,0,32,2,0,31,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Monte Hermoso,17,1,13,3,0,14,0,0,0,0.071,1,1,0,0,0,0,16,11,NaN,NaN
+Buenos Aires,Moreno,1701,186,1408,107,9,1589,0,0.031,0.048,0.117,50,0.269,5,0.027,3,0.016,5.1,3.1,2,7
+Buenos Aires,Morón,1658,187,1361,110,10,1543,0,0.034,0.053,0.121,96,0.513,10,0.053,2,0.011,6.2,4.4,4.5,14.4
+Buenos Aires,Navarro,19,2,16,1,0,18,0,0,0,0.111,0,0,0,0,0,0,9,8,NaN,NaN
+Buenos Aires,Necochea,224,27,185,12,0,198,0,0,0,0.136,1,0.037,0,0,0,0,4.2,3.2,NaN,NaN
+Buenos Aires,Olavarría,196,4,185,7,0,187,0,0,0,0.021,3,0.75,0,0,0,0,4.3,3,NaN,NaN
 Buenos Aires,Patagones,34,1,31,2,1,32,0,0.333,1,0.031,1,1,1,1,0,0,4,4,4,8
 Buenos Aires,Pehuajó,62,2,58,2,1,60,0,0.25,0.5,0.033,2,1,1,0.5,0,0,19,14.5,22,23
 Buenos Aires,Pellegrini,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Pergamino,84,1,76,7,0,74,0,0,0,0.014,1,1,0,0,0,0,11,5,NaN,NaN
+Buenos Aires,Pergamino,88,1,83,4,0,81,0,0,0,0.012,1,1,0,0,0,0,11,5,NaN,NaN
 Buenos Aires,Pila,2,0,2,0,0,0,0,NaN,NaN,NaN,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Pilar,1532,150,1219,163,6,1362,0,0.019,0.04,0.11,53,0.353,8,0.053,4,0.027,6.7,5.3,5.2,18.2
-Buenos Aires,Pinamar,31,1,28,2,0,27,0,0,0,0.037,1,1,1,1,1,1,1,0,0,NaN
-Buenos Aires,Presidente Perón,259,43,204,12,0,244,0,0,0,0.176,16,0.372,1,0.023,0,0,7.6,5,1,NaN
+Buenos Aires,Pilar,1589,156,1290,143,6,1439,0,0.02,0.038,0.108,55,0.353,9,0.058,4,0.026,6.7,5.2,5.6,18.2
+Buenos Aires,Pinamar,32,1,28,3,0,27,0,0,0,0.037,1,1,1,1,1,1,1,0,0,NaN
+Buenos Aires,Presidente Perón,272,44,212,16,0,253,0,0,0,0.174,17,0.386,1,0.023,0,0,7.6,5,1,NaN
 Buenos Aires,Puán,16,1,15,0,0,16,0,0,0,0.062,1,1,0,0,0,0,10,7,NaN,NaN
-Buenos Aires,Punta Indio,17,0,16,1,0,15,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Quilmes,3525,628,2551,346,5,3160,0,0.005,0.008,0.199,150,0.239,14,0.022,5,0.008,5.9,4.3,3.2,6.8
-Buenos Aires,Ramallo,26,1,23,2,0,22,0,0,0,0.045,0,0,0,0,0,0,5,3,NaN,NaN
-Buenos Aires,Rauch,16,0,14,2,0,12,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Rivadavia,30,0,29,1,0,28,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Rojas,38,0,37,1,0,37,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Roque Pérez,31,0,29,2,0,28,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Saavedra,21,0,20,1,0,20,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Saladillo,42,3,37,2,0,40,0,0,0,0.075,2,0.667,0,0,0,0,2.7,0.7,NaN,NaN
-Buenos Aires,Salliqueló,12,0,8,4,0,8,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Salto,20,1,17,2,0,17,0,0,0,0.059,0,0,0,0,0,0,8,7,NaN,NaN
-Buenos Aires,San Andrés de Giles,55,2,53,0,1,54,0,0.5,0.5,0.037,2,1,1,0.5,1,0.5,9,1,6,9
-Buenos Aires,San Antonio de Areco,124,18,84,22,1,102,0,0.025,0.056,0.176,2,0.111,1,0.056,1,0.056,5.4,1.8,1,9
+Buenos Aires,Punta Indio,18,0,16,2,0,15,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Quilmes,3761,697,2737,327,5,3415,0,0.005,0.007,0.204,163,0.234,17,0.024,5,0.007,5.9,4.3,2.9,6.8
+Buenos Aires,Ramallo,27,1,24,2,0,23,0,0,0,0.043,0,0,0,0,0,0,5,3,NaN,NaN
+Buenos Aires,Rauch,17,0,15,2,0,13,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Rivadavia,31,0,30,1,0,29,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Rojas,39,0,38,1,0,38,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Roque Pérez,35,0,31,4,0,30,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Saavedra,22,0,21,1,0,21,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Saladillo,44,3,38,3,0,41,0,0,0,0.073,2,0.667,0,0,0,0,2.7,0.7,NaN,NaN
+Buenos Aires,Salliqueló,12,0,10,2,0,10,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Salto,21,1,17,3,0,17,0,0,0,0.059,0,0,0,0,0,0,8,7,NaN,NaN
+Buenos Aires,San Andrés de Giles,58,2,53,3,1,54,0,0.2,0.5,0.037,2,1,1,0.5,1,0.5,9,1,6,9
+Buenos Aires,San Antonio de Areco,124,18,94,12,1,112,0,0.033,0.056,0.161,2,0.111,1,0.056,1,0.056,5.4,1.8,1,9
 Buenos Aires,San Cayetano,36,1,35,0,0,30,0,0,0,0.033,1,1,0,0,0,0,5,3,NaN,NaN
-Buenos Aires,San Fernando,731,68,615,48,4,679,0,0.034,0.059,0.1,32,0.471,4,0.059,1,0.015,7,5.3,8.8,23
-Buenos Aires,San Isidro,1630,162,1376,92,9,1533,0,0.035,0.056,0.106,90,0.556,11,0.068,4,0.025,4.9,3.4,5.1,10.6
-Buenos Aires,San Miguel,1163,107,976,80,7,1077,0,0.037,0.065,0.099,41,0.383,4,0.037,1,0.009,4.9,3.6,4,10.4
-Buenos Aires,San Nicolás,178,7,162,9,1,166,0,0.062,0.143,0.042,3,0.429,0,0,0,0,11.1,5.9,NaN,22
-Buenos Aires,San Pedro,153,3,141,9,0,138,0,0,0,0.022,2,0.667,0,0,0,0,3,2,NaN,NaN
-Buenos Aires,San Vicente,365,76,255,34,5,325,0,0.045,0.066,0.234,9,0.118,5,0.066,5,0.066,10,4.2,15.6,7.4
-Buenos Aires,SIN ESPECIFICAR,222,14,189,19,0,202,0,0,0,0.069,4,0.286,0,0,0,0,5.6,4.3,NaN,NaN
-Buenos Aires,Suipacha,29,0,27,2,0,27,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,San Fernando,750,72,641,37,4,709,0,0.037,0.056,0.102,35,0.486,4,0.056,1,0.014,6.9,5.3,8.8,23
+Buenos Aires,San Isidro,1681,174,1417,90,10,1586,0,0.038,0.057,0.11,91,0.523,11,0.063,4,0.023,5,3.4,5.1,10.9
+Buenos Aires,San Miguel,1220,112,1003,105,7,1109,0,0.032,0.062,0.101,41,0.366,4,0.036,1,0.009,4.8,3.6,4,10.4
+Buenos Aires,San Nicolás,184,7,163,14,1,167,0,0.048,0.143,0.042,3,0.429,0,0,0,0,11.1,5.9,NaN,22
+Buenos Aires,San Pedro,161,3,144,14,0,141,0,0,0,0.021,2,0.667,0,0,0,0,3,2,NaN,NaN
+Buenos Aires,San Vicente,376,81,270,25,5,345,0,0.047,0.062,0.235,10,0.123,5,0.062,5,0.062,9.8,4.4,15.6,7.4
+Buenos Aires,SIN ESPECIFICAR,228,14,197,17,0,210,0,0,0,0.067,4,0.286,0,0,0,0,5.6,4.3,NaN,NaN
+Buenos Aires,Suipacha,30,0,27,3,0,27,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Buenos Aires,Tandil,182,5,176,1,0,171,0,0,0,0.029,1,0.2,0,0,0,0,9.4,7.8,NaN,NaN
 Buenos Aires,Tapalqué,6,0,5,1,0,5,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Tigre,1400,142,1154,104,6,1289,0,0.024,0.042,0.11,54,0.38,4,0.028,1,0.007,6.2,5,8,15
-Buenos Aires,Tornquist,13,0,13,0,0,13,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Trenque Lauquen,38,2,35,1,0,37,0,0,0,0.054,2,1,0,0,0,0,10,2.5,NaN,NaN
-Buenos Aires,Tres Arroyos,78,3,71,4,0,74,0,0,0,0.041,0,0,0,0,0,0,0,0,NaN,NaN
-Buenos Aires,Tres de Febrero,1885,169,1566,150,11,1728,0,0.034,0.065,0.098,67,0.396,8,0.047,2,0.012,6.2,4.4,4.9,10.9
+Buenos Aires,Tigre,1455,156,1199,100,6,1348,0,0.023,0.038,0.116,55,0.353,4,0.026,1,0.006,5.8,4.7,8,15
+Buenos Aires,Tornquist,14,0,13,1,0,13,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Buenos Aires,Trenque Lauquen,39,2,36,1,0,38,0,0,0,0.053,2,1,0,0,0,0,10,2.5,NaN,NaN
+Buenos Aires,Tres Arroyos,80,3,71,6,0,74,0,0,0,0.041,0,0,0,0,0,0,0,0,NaN,NaN
+Buenos Aires,Tres de Febrero,1940,189,1615,136,11,1797,0,0.034,0.058,0.105,72,0.381,8,0.042,2,0.011,6.1,4.4,4.9,10.9
 Buenos Aires,Tres Lomas,7,0,7,0,0,7,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Buenos Aires,Vicente López,1622,132,1396,94,6,1524,0,0.027,0.045,0.087,64,0.485,7,0.053,6,0.045,5.4,4.2,7.7,11.7
-Buenos Aires,Villa Gesell,51,1,47,3,0,41,0,0,0,0.024,1,1,1,1,0,0,3,2,1,NaN
-Buenos Aires,Villarino,65,8,52,5,0,60,0,0,0,0.133,1,0.125,0,0,0,0,3.1,2.4,NaN,NaN
-Buenos Aires,Zárate,334,30,251,53,1,277,0,0.012,0.033,0.108,6,0.2,0,0,0,0,6.1,4.1,NaN,15
-CABA,COMUNA 1,2778,1687,912,179,13,2595,0,0.007,0.008,0.65,419,0.248,35,0.021,20,0.012,4.6,3.8,4.9,16.8
-CABA,COMUNA 10,391,66,298,27,6,363,0,0.065,0.091,0.182,31,0.47,3,0.045,1,0.015,5,3.7,1.7,17.3
-CABA,COMUNA 11,246,35,197,14,1,229,0,0.02,0.029,0.153,21,0.6,0,0,0,0,4.4,3.6,NaN,12
-CABA,COMUNA 12,293,33,235,25,0,262,0,0,0,0.126,10,0.303,2,0.061,1,0.03,6.1,4.5,7,NaN
-CABA,COMUNA 13,453,90,321,42,5,407,0,0.038,0.056,0.221,51,0.567,1,0.011,1,0.011,5.3,3.7,1,10
-CABA,COMUNA 14,490,80,363,47,2,442,0,0.016,0.025,0.181,45,0.562,4,0.05,2,0.025,5.1,3.1,6.8,17
-CABA,COMUNA 15,378,64,278,36,0,340,0,0,0,0.188,25,0.391,0,0,0,0,6.1,4.4,NaN,NaN
-CABA,COMUNA 2,361,78,254,29,4,329,0,0.037,0.051,0.237,36,0.462,2,0.026,1,0.013,6.4,5.2,5,17
-CABA,COMUNA 3,586,164,378,44,3,539,0,0.014,0.018,0.304,56,0.341,7,0.043,2,0.012,4.7,3.6,2.2,13
-CABA,COMUNA 4,1641,416,1071,154,3,1483,0,0.005,0.007,0.281,67,0.161,9,0.022,4,0.01,4.2,3.7,7.4,4.5
-CABA,COMUNA 5,413,69,321,23,2,386,0,0.022,0.029,0.179,33,0.478,3,0.043,2,0.029,4.2,3.3,6.3,16
-CABA,COMUNA 6,357,48,286,23,1,333,0,0.014,0.021,0.144,27,0.562,4,0.083,3,0.062,7.2,4,9.8,12
-CABA,COMUNA 7,2147,1065,864,218,15,1928,0,0.012,0.014,0.552,276,0.259,21,0.02,11,0.01,4.6,4.1,7.2,11.7
-CABA,COMUNA 8,725,228,415,82,0,642,0,0,0,0.355,51,0.224,2,0.009,1,0.004,4.7,4.1,4.5,NaN
-CABA,COMUNA 9,226,34,183,9,2,217,0,0.047,0.059,0.157,17,0.5,1,0.029,0,0,6.3,5.3,8,11.5
-CABA,SIN ESPECIFICAR,24727,4534,18238,1955,132,22707,0,0.02,0.029,0.2,1716,0.378,150,0.033,69,0.015,4.9,3.7,4.7,13.4
+Buenos Aires,Vicente López,1673,137,1436,100,6,1569,0,0.025,0.044,0.087,65,0.474,7,0.051,6,0.044,5.4,4.2,7.7,11.7
+Buenos Aires,Villa Gesell,52,1,49,2,0,43,0,0,0,0.023,1,1,1,1,0,0,3,2,1,NaN
+Buenos Aires,Villarino,68,8,52,8,0,60,0,0,0,0.133,1,0.125,0,0,0,0,3.1,2.4,NaN,NaN
+Buenos Aires,Zárate,352,34,258,60,1,288,0,0.011,0.029,0.118,7,0.206,0,0,0,0,6.2,4.3,NaN,15
+CABA,COMUNA 1,2966,1803,999,164,14,2798,0,0.007,0.008,0.644,442,0.245,37,0.021,22,0.012,4.6,3.8,4.9,15.8
+CABA,COMUNA 10,402,67,306,29,6,372,0,0.062,0.09,0.18,31,0.463,3,0.045,1,0.015,5,3.7,1.7,17.3
+CABA,COMUNA 11,253,37,203,13,1,237,0,0.02,0.027,0.156,22,0.595,0,0,0,0,4.3,3.5,NaN,12
+CABA,COMUNA 12,301,34,242,25,0,270,0,0,0,0.126,11,0.324,2,0.059,1,0.029,5.9,4.4,7,NaN
+CABA,COMUNA 13,483,97,327,59,5,420,0,0.032,0.052,0.231,53,0.546,1,0.01,1,0.01,5.2,3.7,1,10
+CABA,COMUNA 14,505,89,372,44,2,460,0,0.015,0.022,0.193,47,0.528,4,0.045,2,0.022,5.1,3.2,6.8,17
+CABA,COMUNA 15,402,72,285,45,0,355,0,0,0,0.203,30,0.417,1,0.014,1,0.014,5.9,4.3,9,NaN
+CABA,COMUNA 2,383,83,262,38,4,342,0,0.033,0.048,0.243,38,0.458,2,0.024,1,0.012,6.9,5.3,5,17
+CABA,COMUNA 3,623,180,396,47,3,573,0,0.013,0.017,0.314,59,0.328,8,0.044,3,0.017,5.1,3.7,2,13
+CABA,COMUNA 4,1786,453,1104,229,3,1553,0,0.004,0.007,0.292,74,0.163,11,0.024,5,0.011,4.2,3.7,7.1,4.5
+CABA,COMUNA 5,434,78,334,22,2,408,0,0.02,0.026,0.191,34,0.436,3,0.038,2,0.026,4.2,3.4,6.3,16
+CABA,COMUNA 6,371,49,295,27,1,343,0,0.013,0.02,0.143,28,0.571,4,0.082,3,0.061,8.6,4.3,8,12
+CABA,COMUNA 7,2268,1125,901,242,17,2025,0,0.012,0.015,0.556,293,0.26,23,0.02,13,0.012,4.6,4,7,11.5
+CABA,COMUNA 8,792,248,430,114,0,677,0,0,0,0.366,52,0.21,2,0.008,1,0.004,4.7,4.1,4.5,NaN
+CABA,COMUNA 9,240,37,187,16,2,224,0,0.038,0.054,0.165,18,0.486,1,0.027,0,0,6.4,5.5,8,11.5
+CABA,SIN ESPECIFICAR,25657,4746,18891,2020,134,23572,0,0.02,0.028,0.201,1776,0.374,156,0.033,71,0.015,4.8,3.7,4.6,13.5
 Catamarca,Ambato,1,0,0,1,0,0,0,0,NaN,NaN,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Catamarca,Andalgalá,14,0,14,0,0,14,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Catamarca,Antofagasta de la Sierra,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Catamarca,Belén,14,0,13,1,0,13,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Catamarca,Capayán,19,0,19,0,0,19,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Catamarca,Capital,192,0,190,2,0,190,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Catamarca,Belén,17,0,16,1,0,16,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Catamarca,Capayán,20,0,20,0,0,20,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Catamarca,Capital,200,0,198,2,0,198,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Catamarca,El Alto,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Catamarca,Fray Mamerto Esquiú,8,0,8,0,0,8,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Catamarca,La Paz,13,0,13,0,0,13,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Catamarca,La Paz,14,0,14,0,0,14,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Catamarca,Paclín,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Catamarca,Pomán,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Catamarca,Santa María,25,0,24,1,0,23,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Catamarca,Santa Rosa,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Catamarca,Santa Rosa,5,0,4,1,0,4,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Catamarca,SIN ESPECIFICAR,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Catamarca,Tinogasta,13,0,13,0,0,13,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Catamarca,Valle Viejo,31,0,28,3,0,28,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chaco,12 de Octubre,15,0,14,1,0,14,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chaco,1º de Mayo,76,5,62,9,0,67,0,0,0,0.075,2,0.4,0,0,0,0,4.4,3.6,NaN,NaN
+Catamarca,Valle Viejo,32,0,29,3,0,29,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Chaco,12 de Octubre,17,0,14,3,0,14,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Chaco,1º de Mayo,76,5,64,7,0,69,0,0,0,0.072,2,0.4,0,0,0,0,4.4,3.6,NaN,NaN
 Chaco,2 de Abril,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chaco,25 de Mayo,34,0,31,3,0,31,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chaco,9 de Julio,13,0,12,1,0,12,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chaco,Almirante Brown,17,0,16,1,0,16,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Chaco,25 de Mayo,37,0,34,3,0,34,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Chaco,9 de Julio,13,0,13,0,0,13,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Chaco,Almirante Brown,17,0,17,0,0,17,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Chaco,Bermejo,97,15,75,7,2,90,0,0.091,0.133,0.167,5,0.333,3,0.2,0,0,6.6,4,8,26
-Chaco,Chacabuco,27,2,25,0,0,27,0,0,0,0.074,0,0,0,0,0,0,4,3,NaN,NaN
-Chaco,Comandante Fernández,124,1,108,15,0,109,0,0,0,0.009,0,0,0,0,0,0,8,5,NaN,NaN
-Chaco,Fray Justo Santa María de Oro,9,0,7,2,0,7,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Chaco,Chacabuco,28,3,25,0,0,28,0,0,0,0.107,0,0,0,0,0,0,4,3,NaN,NaN
+Chaco,Comandante Fernández,129,1,119,9,0,120,0,0,0,0.008,0,0,0,0,0,0,8,5,NaN,NaN
+Chaco,Fray Justo Santa María de Oro,10,0,9,1,0,9,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Chaco,General Belgrano,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chaco,General Donovan,35,1,33,1,0,34,0,0,0,0.029,0,0,0,0,0,0,NaN,NaN,NaN,NaN
+Chaco,General Donovan,36,1,33,2,0,34,0,0,0,0.029,0,0,0,0,0,0,NaN,NaN,NaN,NaN
 Chaco,General Güemes,93,2,83,8,0,85,0,0,0,0.024,1,0.5,0,0,0,0,6,2,NaN,NaN
 Chaco,Independencia,18,0,18,0,0,18,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chaco,Libertad,39,0,36,3,0,36,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chaco,Libertador General San Martín,71,2,66,3,0,68,0,0,0,0.029,1,0.5,0,0,0,0,3,1.5,NaN,NaN
-Chaco,Maipú,41,1,37,3,0,38,0,0,0,0.026,1,1,0,0,0,0,4,4,NaN,NaN
-Chaco,Mayor Luis J. Fontana,91,2,82,7,1,84,0,0.111,0.5,0.024,2,1,0,0,0,0,18,15,NaN,9
+Chaco,Libertad,46,0,36,10,0,36,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Chaco,Libertador General San Martín,70,2,66,2,0,68,0,0,0,0.029,1,0.5,0,0,0,0,3,1.5,NaN,NaN
+Chaco,Maipú,41,1,38,2,0,39,0,0,0,0.026,1,1,0,0,0,0,4,4,NaN,NaN
+Chaco,Mayor Luis J. Fontana,97,2,85,10,1,87,0,0.083,0.5,0.023,2,1,0,0,0,0,18,15,NaN,9
 Chaco,O'Higgins,5,0,5,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chaco,Presidencia de la Plaza,9,1,7,1,1,8,0,0.5,1,0.125,1,1,0,0,0,0,23,15,NaN,24
+Chaco,Presidencia de la Plaza,10,1,7,2,1,8,0,0.333,1,0.125,1,1,0,0,0,0,23,15,NaN,24
 Chaco,Quitilipi,20,0,18,2,0,18,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chaco,San Fernando,5874,884,4611,379,54,5495,0,0.043,0.061,0.161,150,0.17,65,0.074,38,0.043,7.2,5.1,6,11.6
+Chaco,San Fernando,6089,890,4727,472,55,5617,0,0.04,0.062,0.158,152,0.171,66,0.074,39,0.044,7.2,5,5.9,11.5
 Chaco,San Lorenzo,3,0,2,1,0,2,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chaco,Sargento Cabral,49,2,44,3,0,46,0,0,0,0.043,0,0,0,0,0,0,4.5,4,NaN,NaN
-Chaco,SIN ESPECIFICAR,7,1,5,1,0,6,0,0,0,0.167,0,0,0,0,0,0,2,2,NaN,NaN
+Chaco,Sargento Cabral,49,2,46,1,0,48,0,0,0,0.042,0,0,0,0,0,0,4.5,4,NaN,NaN
+Chaco,SIN ESPECIFICAR,11,1,9,1,0,10,0,0,0,0.1,0,0,0,0,0,0,2,2,NaN,NaN
 Chaco,Tapenagá,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chubut,Biedma,111,0,109,2,0,107,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Chubut,Biedma,111,0,110,1,0,108,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Chubut,Cushamen,10,0,10,0,0,10,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chubut,Escalante,104,2,96,6,0,98,0,0,0,0.02,1,0.5,0,0,0,0,10,6,NaN,NaN
+Chubut,Escalante,108,2,101,5,0,103,0,0,0,0.019,1,0.5,0,0,0,0,10,6,NaN,NaN
 Chubut,Futaleufú,22,0,22,0,0,22,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chubut,Gaiman,14,0,14,0,0,13,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chubut,Rawson,120,8,96,16,0,100,0,0,0,0.08,2,0.25,1,0.125,1,0.125,6.8,5.6,12,NaN
+Chubut,Gaiman,15,0,14,1,0,13,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Chubut,Rawson,139,9,114,16,0,119,0,0,0,0.076,2,0.222,1,0.111,1,0.111,6.7,5.8,12,NaN
 Chubut,Río Senguer,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Chubut,Sarmiento,9,0,9,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Chubut,SIN ESPECIFICAR,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Chubut,SIN ESPECIFICAR,5,0,5,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Chubut,Tehuelches,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Chubut,Telsen,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Córdoba,*sin dato*,9,0,9,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,Calamuchita,148,2,134,12,0,135,0,0,0,0.015,1,0.5,1,0.5,0,0,17,6,4,NaN
-Córdoba,Capital,7114,249,6257,607,13,6498,1,0.015,0.052,0.038,43,0.173,16,0.064,7,0.028,6.1,4.6,7.5,20.1
-Córdoba,Colón,1170,83,1020,67,10,1102,0,0.067,0.12,0.075,47,0.566,4,0.048,0,0,3.1,3.3,0.8,25.2
-Córdoba,Cruz del Eje,78,2,73,3,0,74,0,0,0,0.027,0,0,0,0,0,0,8,3,NaN,NaN
-Córdoba,General Roca,142,2,124,16,1,126,0,0.056,0.5,0.016,1,0.5,1,0.5,1,0.5,12.5,10,9,15
-Córdoba,General San Martín,508,24,456,28,1,480,0,0.019,0.042,0.05,3,0.125,1,0.042,0,0,6.7,4.2,7,29
-Córdoba,Ischilín,44,0,37,7,0,37,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,Juárez Celman,103,0,99,4,0,99,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,Marcos Juárez,161,4,142,15,0,146,0,0,0,0.027,0,0,0,0,0,0,10.7,8.3,NaN,NaN
+Córdoba,Calamuchita,149,2,137,10,0,138,0,0,0,0.014,1,0.5,1,0.5,0,0,17,6,4,NaN
+Córdoba,Capital,7233,248,6370,614,13,6610,1,0.015,0.052,0.038,44,0.177,17,0.069,8,0.032,6.1,4.6,7.2,20.1
+Córdoba,Colón,1192,83,1037,72,11,1119,0,0.071,0.133,0.074,47,0.566,4,0.048,0,0,3.1,3.3,0.8,32
+Córdoba,Cruz del Eje,79,2,73,4,0,74,0,0,0,0.027,0,0,0,0,0,0,8,3,NaN,NaN
+Córdoba,General Roca,144,2,124,18,1,126,0,0.05,0.5,0.016,1,0.5,1,0.5,1,0.5,12.5,10,9,15
+Córdoba,General San Martín,526,25,470,31,1,495,0,0.018,0.04,0.051,3,0.12,1,0.04,0,0,6.7,4.2,7,29
+Córdoba,Ischilín,45,0,39,6,0,39,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Córdoba,Juárez Celman,104,0,100,4,0,100,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Córdoba,Marcos Juárez,162,4,148,10,0,152,0,0,0,0.026,0,0,0,0,0,0,10.7,8.3,NaN,NaN
 Córdoba,Minas,6,0,6,0,0,6,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,Pocho,5,0,4,1,0,4,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,Presidente Roque Sáenz Peña,80,1,73,6,0,74,0,0,0,0.014,0,0,0,0,0,0,NaN,NaN,NaN,NaN
-Córdoba,Punilla,1004,25,908,71,4,933,0,0.042,0.16,0.027,3,0.12,2,0.08,2,0.08,8.1,6,7,15.2
-Córdoba,Río Cuarto,847,17,784,46,0,799,0,0,0,0.021,3,0.176,0,0,0,0,9.8,4.4,NaN,NaN
-Córdoba,Río Primero,200,1,188,11,0,189,0,0,0,0.005,1,1,0,0,0,0,2,2,NaN,NaN
+Córdoba,Pocho,6,0,4,2,0,4,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Córdoba,Presidente Roque Sáenz Peña,80,1,75,4,0,76,0,0,0,0.013,0,0,0,0,0,0,NaN,NaN,NaN,NaN
+Córdoba,Punilla,1020,25,926,69,4,951,0,0.043,0.16,0.026,3,0.12,2,0.08,2,0.08,8.1,6,7,15.2
+Córdoba,Río Cuarto,860,17,798,45,0,813,0,0,0,0.021,3,0.176,0,0,0,0,9.8,4.4,NaN,NaN
+Córdoba,Río Primero,205,1,191,13,0,192,0,0,0,0.005,1,1,0,0,0,0,2,2,NaN,NaN
 Córdoba,Río Seco,12,0,12,0,0,12,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,Río Segundo,265,0,246,19,0,246,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,San Alberto,75,0,71,4,0,71,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,San Javier,74,0,70,4,0,70,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,San Justo,816,15,758,43,0,771,0,0,0,0.019,6,0.4,1,0.067,1,0.067,7.8,2.9,2,NaN
-Córdoba,Santa María,920,24,866,30,1,890,0,0.019,0.042,0.027,3,0.125,1,0.042,0,0,7.6,4.4,NaN,9
-Córdoba,SIN ESPECIFICAR,64,1,61,2,0,62,0,0,0,0.016,0,0,0,0,0,0,9,7,NaN,NaN
+Córdoba,Río Segundo,269,0,249,20,0,249,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Córdoba,San Alberto,76,0,72,4,0,72,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Córdoba,San Javier,75,0,72,3,0,72,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Córdoba,San Justo,816,15,770,31,0,783,0,0,0,0.019,6,0.4,1,0.067,1,0.067,7.8,2.9,2,NaN
+Córdoba,Santa María,931,25,879,27,1,904,0,0.019,0.04,0.028,4,0.16,1,0.04,0,0,7.6,4.4,NaN,9
+Córdoba,SIN ESPECIFICAR,65,1,62,2,0,63,0,0,0,0.016,0,0,0,0,0,0,9,7,NaN,NaN
 Córdoba,Sobremonte,5,0,5,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,Tercero Arriba,141,0,127,14,0,126,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,Totoral,20,0,20,0,0,20,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Córdoba,Tercero Arriba,146,0,131,15,0,130,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Córdoba,Totoral,24,0,20,4,0,20,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Córdoba,Tulumba,26,0,24,2,0,24,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Córdoba,Unión,185,8,167,10,0,175,0,0,0,0.046,1,0.125,1,0.125,0,0,9.8,3.2,7,NaN
-Corrientes,Bella Vista,24,0,21,3,0,21,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Córdoba,Unión,188,9,170,9,0,179,0,0,0,0.05,2,0.222,1,0.111,0,0,9.8,3.2,7,NaN
+Corrientes,Bella Vista,25,0,22,3,0,22,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Corrientes,Berón de Astrada,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Corrientes,Capital,1860,52,1698,110,0,1750,0,0,0,0.03,1,0.019,1,0.019,0,0,8.7,5.6,NaN,NaN
+Corrientes,Capital,1904,52,1742,110,0,1794,0,0,0,0.029,1,0.019,1,0.019,0,0,8.7,5.6,NaN,NaN
 Corrientes,Concepción,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Corrientes,Curuzú Cuatiá,37,0,36,1,0,36,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Corrientes,Empedrado,104,0,101,3,0,101,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Corrientes,Esquina,18,0,18,0,0,18,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Corrientes,Empedrado,114,0,111,3,0,111,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Corrientes,Esquina,19,0,18,1,0,18,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Corrientes,General Alvear,6,0,6,0,0,6,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Corrientes,General Paz,11,0,11,0,0,11,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Corrientes,Goya,56,0,56,0,0,56,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Corrientes,Itatí,14,0,14,0,0,14,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Corrientes,Goya,57,0,56,1,0,56,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Corrientes,Itatí,16,0,16,0,0,16,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Corrientes,Ituzaingó,31,0,26,5,0,26,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Corrientes,Lavalle,11,0,11,0,0,10,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Corrientes,Lavalle,13,0,12,1,0,11,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Corrientes,Mburucuyá,6,0,6,0,0,6,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Corrientes,Mercedes,44,1,43,0,0,44,0,0,0,0.023,0,0,0,0,0,0,NaN,NaN,NaN,NaN
-Corrientes,Monte Caseros,52,10,39,3,0,49,0,0,0,0.204,0,0,0,0,0,0,1,1,NaN,NaN
-Corrientes,Paso de los Libres,82,0,80,2,0,80,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Corrientes,Saladas,32,0,31,1,0,31,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Corrientes,San Cosme,90,8,81,1,0,89,0,0,0,0.09,0,0,0,0,0,0,5,5,NaN,NaN
-Corrientes,San Luis del Palmar,81,2,76,3,0,78,0,0,0,0.026,0,0,0,0,0,0,8,8,NaN,NaN
+Corrientes,Monte Caseros,73,10,60,3,0,70,0,0,0,0.143,0,0,0,0,0,0,1,1,NaN,NaN
+Corrientes,Paso de los Libres,82,0,81,1,0,81,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Corrientes,Saladas,33,0,33,0,0,33,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Corrientes,San Cosme,93,8,84,1,0,92,0,0,0,0.087,0,0,0,0,0,0,5,5,NaN,NaN
+Corrientes,San Luis del Palmar,81,2,78,1,0,80,0,0,0,0.025,0,0,0,0,0,0,8,8,NaN,NaN
 Corrientes,San Martín,5,0,5,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Corrientes,San Miguel,5,0,4,1,0,4,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Corrientes,San Miguel,6,0,5,1,0,5,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Corrientes,San Roque,11,0,9,2,0,9,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Corrientes,Santo Tomé,52,0,49,3,0,49,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Corrientes,Santo Tomé,54,0,52,2,0,52,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Corrientes,Sauce,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Corrientes,SIN ESPECIFICAR,33,23,9,1,0,32,0,0,0,0.719,0,0,0,0,0,0,0,0,NaN,NaN
-Entre Ríos,Colón,61,3,57,1,0,60,0,0,0,0.05,0,0,0,0,0,0,8,7.7,NaN,NaN
-Entre Ríos,Concordia,211,3,197,11,0,196,0,0,0,0.015,1,0.333,0,0,0,0,4.5,2.5,NaN,NaN
-Entre Ríos,Diamante,39,2,36,1,0,38,0,0,0,0.053,1,0.5,0,0,0,0,6.5,5,NaN,NaN
-Entre Ríos,Federación,43,2,38,3,0,40,0,0,0,0.05,2,1,0,0,0,0,5.5,4.5,NaN,NaN
-Entre Ríos,Federal,8,0,8,0,0,8,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Entre Ríos,Colón,64,3,60,1,0,63,0,0,0,0.048,0,0,0,0,0,0,8,7.7,NaN,NaN
+Entre Ríos,Concordia,212,3,206,3,0,205,0,0,0,0.015,1,0.333,0,0,0,0,4.5,2.5,NaN,NaN
+Entre Ríos,Diamante,40,2,38,0,0,40,0,0,0,0.05,1,0.5,0,0,0,0,6.5,5,NaN,NaN
+Entre Ríos,Federación,45,2,38,5,0,40,0,0,0,0.05,2,1,0,0,0,0,5.5,4.5,NaN,NaN
+Entre Ríos,Federal,9,0,8,1,0,8,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Entre Ríos,Feliciano,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Entre Ríos,Gualeguay,62,2,58,2,0,60,0,0,0,0.033,1,0.5,0,0,0,0,4.5,2,NaN,NaN
-Entre Ríos,Gualeguaychú,142,9,128,5,0,136,0,0,0,0.066,3,0.333,0,0,0,0,5.6,3.1,NaN,NaN
-Entre Ríos,Islas del Ibicuy,10,1,9,0,0,10,0,0,0,0.1,1,1,0,0,0,0,9,1,NaN,NaN
-Entre Ríos,La Paz,15,1,14,0,0,15,0,0,0,0.067,0,0,0,0,0,0,5,3,NaN,NaN
-Entre Ríos,Nogoyá,19,1,14,4,0,15,0,0,0,0.067,1,1,0,0,0,0,8,5,NaN,NaN
-Entre Ríos,Paraná,443,6,417,20,0,414,0,0,0,0.014,3,0.5,0,0,0,0,9,6.8,NaN,NaN
+Entre Ríos,Gualeguay,62,2,60,0,0,62,0,0,0,0.032,1,0.5,0,0,0,0,4.5,2,NaN,NaN
+Entre Ríos,Gualeguaychú,143,9,130,4,0,137,0,0,0,0.066,3,0.333,0,0,0,0,5.6,3.1,NaN,NaN
+Entre Ríos,Islas del Ibicuy,12,1,11,0,0,12,0,0,0,0.083,1,1,0,0,0,0,9,1,NaN,NaN
+Entre Ríos,La Paz,16,1,15,0,0,16,0,0,0,0.062,0,0,0,0,0,0,5,3,NaN,NaN
+Entre Ríos,Nogoyá,19,1,16,2,0,17,0,0,0,0.059,1,1,0,0,0,0,8,5,NaN,NaN
+Entre Ríos,Paraná,452,6,429,17,0,426,0,0,0,0.014,3,0.5,0,0,0,0,9,6.8,NaN,NaN
 Entre Ríos,San Salvador,7,0,7,0,0,7,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Entre Ríos,SIN ESPECIFICAR,9,0,8,1,0,8,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Entre Ríos,Tala,8,0,8,0,0,8,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Entre Ríos,Uruguay,92,1,86,5,0,86,0,0,0,0.012,1,1,0,0,0,0,9,9,NaN,NaN
-Entre Ríos,Victoria,31,0,28,3,0,25,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Entre Ríos,Villaguay,39,2,35,2,0,37,0,0,0,0.054,2,1,0,0,0,0,5.5,4,NaN,NaN
+Entre Ríos,SIN ESPECIFICAR,9,0,9,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Entre Ríos,Tala,9,0,8,1,0,8,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Entre Ríos,Uruguay,98,3,86,9,0,88,0,0,0,0.034,1,0.333,0,0,0,0,9.3,9.3,NaN,NaN
+Entre Ríos,Victoria,31,0,30,1,0,27,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Entre Ríos,Villaguay,40,2,37,1,0,39,0,0,0,0.051,2,1,0,0,0,0,5.5,4,NaN,NaN
 Formosa,Bermejo,7,0,7,0,0,7,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Formosa,Formosa,364,0,331,33,0,331,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Formosa,Formosa,365,0,331,34,0,331,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Formosa,Laishi,34,0,33,1,0,33,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Formosa,Matacos,19,0,18,1,0,18,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Formosa,Patiño,63,0,60,3,0,60,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Formosa,Patiño,64,0,61,3,0,61,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Formosa,Pilagás,17,0,17,0,0,17,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Formosa,Pilcomayo,141,0,129,12,0,128,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Formosa,Pirané,62,0,60,2,0,60,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Formosa,Pirané,63,0,60,3,0,60,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Formosa,Ramón Lista,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Jujuy,*sin dato*,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Jujuy,Campana,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Jujuy,Cochinoca,45,0,44,1,0,44,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Jujuy,Dr. Manuel Belgrano,845,6,830,8,0,836,1,0,0,0.007,1,0.167,0,0,0,0,4.3,2,NaN,NaN
-Jujuy,El Carmen,362,0,356,6,0,355,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Jujuy,Cochinoca,46,0,44,2,0,44,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Jujuy,Dr. Manuel Belgrano,863,6,847,9,0,853,1,0,0,0.007,1,0.167,0,0,0,0,4.3,2,NaN,NaN
+Jujuy,El Carmen,365,1,358,6,0,358,0,0,0,0.003,0,0,0,0,0,0,3,3,NaN,NaN
 Jujuy,General Guido,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Jujuy,Humahuaca,56,0,56,0,0,56,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Jujuy,Ledesma,187,1,153,33,0,154,0,0,0,0.006,0,0,0,0,0,0,6,6,NaN,NaN
-Jujuy,Palpalá,70,1,69,0,0,70,0,0,0,0.014,0,0,0,0,0,0,3,1,NaN,NaN
-Jujuy,San Antonio,6,0,6,0,0,6,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Jujuy,San Pedro,169,0,163,6,0,163,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Jujuy,Ledesma,191,1,154,36,0,155,0,0,0,0.006,1,1,1,1,1,1,6,6,12,NaN
+Jujuy,Palpalá,72,1,71,0,0,72,0,0,0,0.014,0,0,0,0,0,0,3,1,NaN,NaN
+Jujuy,San Antonio,7,0,6,1,0,6,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Jujuy,San Pedro,171,0,166,5,0,166,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Jujuy,Santa Bárbara,17,0,17,0,0,17,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Jujuy,Santa Catalina,7,0,7,0,0,7,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Jujuy,SIN ESPECIFICAR,9,0,9,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Jujuy,Susques,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Jujuy,Tilcara,33,0,31,2,0,31,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Jujuy,Tilcara,34,0,32,2,0,32,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Jujuy,Tumbaya,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Jujuy,Valle Grande,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Jujuy,Yavi,32,0,30,2,0,30,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Atreucó,8,0,8,0,0,8,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Caleu Caleu,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-La Pampa,Capital,105,4,100,1,0,104,0,0,0,0.038,1,0.25,0,0,0,0,8.7,5.3,NaN,NaN
+La Pampa,Capital,109,4,102,3,0,106,0,0,0,0.038,1,0.25,0,0,0,0,8.7,5.3,NaN,NaN
 La Pampa,Catriló,6,0,6,0,0,6,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Chalileo,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Chapaleufú,5,0,5,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
@@ -313,23 +313,23 @@ La Pampa,Conhelo,11,0,11,0,0,11,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Guatraché,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Hucal,5,0,4,1,0,4,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Loventué,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-La Pampa,Maracó,36,1,34,1,0,35,0,0,0,0.029,0,0,0,0,0,0,10,9,NaN,NaN
+La Pampa,Maracó,37,1,34,2,0,35,0,0,0,0.029,0,0,0,0,0,0,10,9,NaN,NaN
 La Pampa,Puelén,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Quemú Quemú,6,0,6,0,0,6,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Rancul,11,0,11,0,0,11,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-La Pampa,Realicó,9,0,7,2,0,7,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+La Pampa,Realicó,9,0,8,1,0,8,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Toay,11,0,11,0,0,11,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Trenel,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Pampa,Utracán,5,0,4,1,0,4,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Rioja,Arauco,36,0,35,1,0,35,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-La Rioja,Capital,1047,62,951,34,6,1013,0,0.062,0.097,0.061,10,0.161,4,0.065,1,0.016,9,8.2,9.8,12.7
+La Rioja,Capital,1057,62,958,37,6,1020,0,0.061,0.097,0.061,10,0.161,4,0.065,1,0.016,9,8.2,9.8,12.7
 La Rioja,Castro Barros,6,0,5,1,0,5,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-La Rioja,Chamical,31,0,31,0,0,31,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-La Rioja,Chilecito,64,0,64,0,0,64,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+La Rioja,Chamical,32,0,31,1,0,31,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+La Rioja,Chilecito,67,0,66,1,0,66,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Rioja,Coronel Felipe Varela,14,0,14,0,0,14,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Rioja,Famatina,9,0,7,1,0,7,1,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Rioja,General Angel V. Peñaloza,14,1,12,1,1,13,0,0.5,1,0.077,0,0,0,0,0,0,6,4,NaN,15
-La Rioja,General Belgrano,7,0,7,0,0,7,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+La Rioja,General Belgrano,8,0,7,1,0,7,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Rioja,General Juan F. Quiroga,9,0,9,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Rioja,General Lamadrid,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Rioja,General Ocampo,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
@@ -337,202 +337,202 @@ La Rioja,General San Martín,6,0,6,0,0,6,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,N
 La Rioja,Independencia,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Rioja,Rosario Vera Peñaloza,14,0,13,1,0,13,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Rioja,San Blas de los Sauces,10,0,10,0,0,10,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-La Rioja,Sanagasta,9,0,9,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+La Rioja,Sanagasta,10,0,10,0,0,10,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Rioja,SIN ESPECIFICAR,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 La Rioja,Vinchina,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Mendoza,*sin dato*,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Mendoza,Capital,227,14,205,8,1,218,0,0.045,0.071,0.064,14,1,1,0.071,1,0.071,9.2,6.2,11,18
-Mendoza,General Alvear,67,1,64,2,0,65,0,0,0,0.015,1,1,0,0,0,0,0,0,NaN,NaN
-Mendoza,Godoy Cruz,253,9,234,10,3,241,0,0.158,0.333,0.037,9,1,1,0.111,0,0,10.4,7,7,21
-Mendoza,Guaymallén,339,25,297,17,0,322,0,0,0,0.078,23,0.92,2,0.08,0,0,5.7,4.3,4,NaN
+Mendoza,Capital,238,14,214,10,1,227,0,0.042,0.071,0.062,14,1,1,0.071,1,0.071,9.2,6.2,11,18
+Mendoza,General Alvear,68,1,65,2,0,66,0,0,0,0.015,1,1,0,0,0,0,0,0,NaN,NaN
+Mendoza,Godoy Cruz,253,9,236,8,3,243,0,0.176,0.333,0.037,9,1,1,0.111,0,0,10.4,7,7,21
+Mendoza,Guaymallén,348,25,306,17,0,331,0,0,0,0.076,23,0.92,2,0.08,0,0,5.7,4.3,4,NaN
 Mendoza,Junín,25,0,25,0,0,24,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Mendoza,La Paz,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Mendoza,Las Heras,265,21,222,22,2,243,0,0.047,0.095,0.086,20,0.952,3,0.143,1,0.048,6.4,4.7,5.3,6.5
+Mendoza,Las Heras,275,21,238,16,2,259,0,0.054,0.095,0.081,20,0.952,3,0.143,1,0.048,6.4,4.7,5.3,6.5
 Mendoza,Lavalle,31,1,28,2,0,29,0,0,0,0.034,1,1,0,0,0,0,NaN,NaN,NaN,NaN
-Mendoza,Luján de Cuyo,128,13,104,11,1,116,0,0.042,0.077,0.112,11,0.846,2,0.154,1,0.077,7.8,4.4,5.5,7
-Mendoza,Maipú,143,5,135,3,0,139,0,0,0,0.036,5,1,0,0,0,0,5.2,4.2,NaN,NaN
-Mendoza,Malargüe,34,3,27,4,1,29,0,0.143,0.333,0.103,3,1,1,0.333,1,0.333,3.5,2.5,1,8
-Mendoza,Rivadavia,31,0,31,0,0,31,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Mendoza,San Carlos,25,0,24,1,0,23,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Mendoza,San Martín,86,0,85,1,0,85,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Mendoza,San Rafael,157,3,149,5,1,151,0,0.125,0.333,0.02,3,1,0,0,0,0,4.5,2.5,NaN,11
+Mendoza,Luján de Cuyo,133,13,109,11,1,121,0,0.042,0.077,0.107,11,0.846,2,0.154,1,0.077,7.8,4.4,5.5,7
+Mendoza,Maipú,146,5,138,3,0,142,0,0,0,0.035,5,1,0,0,0,0,5.2,4.2,NaN,NaN
+Mendoza,Malargüe,36,3,27,6,1,29,0,0.111,0.333,0.103,3,1,1,0.333,1,0.333,3.5,2.5,1,8
+Mendoza,Rivadavia,32,0,31,1,0,31,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Mendoza,San Carlos,26,0,26,0,0,25,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Mendoza,San Martín,89,0,86,3,0,86,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Mendoza,San Rafael,161,3,152,6,1,154,0,0.111,0.333,0.019,3,1,0,0,0,0,4.5,2.5,NaN,11
 Mendoza,Santa Rosa,8,0,7,1,0,7,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Mendoza,SIN ESPECIFICAR,9,1,8,0,0,9,0,0,0,0.111,0,0,0,0,0,0,6,6,NaN,NaN
 Mendoza,Tunuyán,75,3,72,0,0,75,0,0,0,0.04,3,1,1,0.333,1,0.333,8,6,6,NaN
 Mendoza,Tupungato,25,1,23,1,0,24,0,0,0,0.042,1,1,0,0,0,0,3,2,NaN,NaN
 Misiones,25 de Mayo,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Misiones,Apóstoles,16,0,16,0,0,16,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Misiones,Cainguás,11,0,10,1,0,10,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Misiones,Candelaria,11,0,11,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Misiones,Capital,596,21,568,7,0,557,0,0,0,0.038,16,0.762,1,0.048,0,0,3.9,2.4,0,NaN
-Misiones,Eldorado,40,1,33,6,0,33,0,0,0,0.03,1,1,0,0,0,0,4,2,NaN,NaN
+Misiones,Apóstoles,17,0,17,0,0,16,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Misiones,Cainguás,11,1,10,0,0,11,0,0,0,0.091,0,0,0,0,0,0,5,3,NaN,NaN
+Misiones,Candelaria,12,0,11,1,0,11,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Misiones,Capital,615,22,586,7,0,587,0,0,0,0.037,16,0.727,1,0.045,0,0,3.8,2.3,0,NaN
+Misiones,Eldorado,40,2,35,3,0,37,0,0,0,0.054,1,0.5,0,0,0,0,4,2,NaN,NaN
 Misiones,General Manuel Belgrano,8,0,8,0,0,8,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Misiones,Guaraní,14,2,12,0,1,13,0,0.5,0.5,0.154,2,1,1,0.5,1,0.5,3.5,3.5,4,10
-Misiones,Iguazú,173,4,166,3,0,165,0,0,0,0.024,4,1,0,0,0,0,2.8,2,NaN,NaN
+Misiones,Guaraní,14,2,12,0,1,14,0,0.5,0.5,0.143,2,1,1,0.5,1,0.5,3.5,3.5,4,10
+Misiones,Iguazú,174,4,167,3,0,171,0,0,0,0.023,4,1,0,0,0,0,2.8,2,NaN,NaN
 Misiones,Leandro N. Alem,24,0,23,1,0,23,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Misiones,Libertador Grl. San Martín,52,0,52,0,0,51,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Misiones,Montecarlo,32,0,31,1,0,30,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Misiones,Oberá,38,0,37,1,0,36,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Misiones,San Ignacio,21,0,21,0,0,18,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Misiones,Libertador Grl. San Martín,52,0,52,0,0,52,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Misiones,Montecarlo,32,0,31,1,0,31,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Misiones,Oberá,38,0,37,1,0,37,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Misiones,San Ignacio,21,0,21,0,0,21,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Misiones,San Javier,7,0,7,0,0,7,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Misiones,San Pedro,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Misiones,SIN ESPECIFICAR,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Neuquén,Aluminé,25,0,25,0,0,25,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Neuquén,Añelo,25,0,25,0,0,25,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Neuquén,Catán Lil,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Neuquén,Chos Malal,22,0,21,1,0,20,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Neuquén,Chos Malal,22,0,22,0,0,21,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Neuquén,Collón Curá,5,0,5,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Neuquén,Confluencia,995,80,894,21,2,963,0,0.02,0.025,0.083,50,0.625,2,0.025,2,0.025,7.8,7.1,5,13
+Neuquén,Confluencia,1028,90,911,27,2,990,0,0.017,0.022,0.091,50,0.556,2,0.022,2,0.022,7.8,7.1,5,13
 Neuquén,Huiliches,27,0,27,0,0,27,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Neuquén,Lácar,72,6,63,3,1,69,0,0.111,0.167,0.087,5,0.833,1,0.167,1,0.167,4.8,3.4,4,9
 Neuquén,Loncopué,84,34,47,3,2,81,0,0.054,0.059,0.42,32,0.941,0,0,0,0,8.2,5.5,NaN,6
-Neuquén,Los Lagos,32,4,27,1,0,31,0,0,0,0.129,4,1,0,0,0,0,2.8,0.8,NaN,NaN
+Neuquén,Los Lagos,33,4,27,2,0,31,0,0,0,0.129,4,1,0,0,0,0,2.8,0.8,NaN,NaN
 Neuquén,Minas,4,0,3,1,0,3,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Neuquén,Ñorquín,8,0,8,0,0,8,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Neuquén,Pehuenches,18,0,18,0,0,18,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Neuquén,Picún Leufú,5,0,4,1,0,3,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Neuquén,Picunches,62,12,49,1,0,61,0,0,0,0.197,7,0.583,0,0,0,0,4.9,3.8,NaN,NaN
-Neuquén,Zapala,101,4,95,2,0,95,0,0,0,0.042,3,0.75,0,0,0,0,9.8,4.2,NaN,NaN
+Neuquén,Picún Leufú,5,0,5,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Neuquén,Picunches,62,12,50,0,0,62,0,0,0,0.194,7,0.583,0,0,0,0,4.9,3.8,NaN,NaN
+Neuquén,Zapala,104,4,97,3,0,97,0,0,0,0.041,3,0.75,0,0,0,0,9.8,4.2,NaN,NaN
 Río Negro,25 de Mayo,21,2,19,0,1,21,0,0.5,0.5,0.095,2,1,0,0,0,0,2.5,2,NaN,9
 Río Negro,Adolfo Alsina,84,1,83,0,0,84,0,0,0,0.012,1,1,0,0,0,0,8,6,NaN,NaN
-Río Negro,Avellaneda,353,110,238,5,10,348,0,0.087,0.091,0.316,88,0.8,5,0.045,3,0.027,5.4,4.3,6.6,20.1
-Río Negro,Bariloche,912,148,750,14,0,896,0,0,0,0.165,85,0.574,1,0.007,1,0.007,7.7,6.3,10,NaN
+Río Negro,Avellaneda,354,110,243,1,10,353,0,0.09,0.091,0.312,88,0.8,5,0.045,3,0.027,5.4,4.3,6.6,20.1
+Río Negro,Bariloche,924,151,761,12,0,910,0,0,0,0.166,90,0.596,1,0.007,1,0.007,7.7,6.3,10,NaN
 Río Negro,Conesa,11,1,10,0,0,11,0,0,0,0.091,1,1,0,0,0,0,8,7,NaN,NaN
 Río Negro,El Cuy,7,0,7,0,0,7,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Río Negro,General Roca,783,137,628,18,7,764,0,0.045,0.051,0.179,69,0.504,9,0.066,3,0.022,4.4,2.9,3,11.4
+Río Negro,General Roca,818,151,647,20,7,797,0,0.041,0.046,0.189,72,0.477,9,0.06,3,0.02,4.8,3.4,3,11.4
 Río Negro,Pichi Mahuida,21,2,19,0,0,21,0,0,0,0.095,2,1,0,0,0,0,2.5,1,NaN,NaN
-Río Negro,Pilcaniyeu,42,8,32,2,0,40,0,0,0,0.2,4,0.5,0,0,0,0,7.6,6.8,NaN,NaN
-Río Negro,San Antonio,38,0,37,1,0,36,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Río Negro,Pilcaniyeu,42,8,34,0,0,42,0,0,0,0.19,4,0.5,0,0,0,0,7.6,6.8,NaN,NaN
+Río Negro,San Antonio,39,0,37,2,0,36,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Río Negro,SIN ESPECIFICAR,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Río Negro,Valcheta,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Salta,*sin dato*,1,0,0,1,0,0,0,0,NaN,NaN,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Salta,*sin dato*,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Salta,Anta,9,0,8,1,0,8,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Salta,Cachi,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Salta,Cafayate,13,0,11,2,0,10,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Salta,Capital,301,4,281,16,0,282,0,0,0,0.014,4,1,0,0,0,0,6.5,2,NaN,NaN
-Salta,Cerrillos,18,0,18,0,0,18,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Salta,Cafayate,15,1,12,2,0,12,0,0,0,0.083,0,0,0,0,0,0,NaN,NaN,NaN,NaN
+Salta,Capital,316,6,291,19,0,294,0,0,0,0.02,4,0.667,0,0,0,0,6.5,2,NaN,NaN
+Salta,Cerrillos,20,0,20,0,0,20,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Salta,Chicoana,7,0,7,0,0,7,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Salta,General Güemes,27,0,27,0,0,27,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Salta,Grl. José de San Martín,51,0,48,3,0,48,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Salta,General Güemes,29,0,29,0,0,29,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Salta,Grl. José de San Martín,55,0,53,2,0,53,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Salta,Iruya,9,0,9,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Salta,La Caldera,9,0,9,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Salta,La Caldera,10,0,10,0,0,10,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Salta,La Viña,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Salta,Los Andes,10,0,10,0,0,10,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Salta,Metán,42,0,41,1,0,41,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Salta,Molinos,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Salta,Orán,47,5,38,4,0,42,0,0,0,0.119,1,0.2,0,0,0,0,4,4,NaN,NaN
-Salta,Rivadavia,6,0,6,0,0,6,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Salta,Orán,50,6,39,5,0,44,0,0,0,0.136,1,0.167,0,0,0,0,4,4,NaN,NaN
+Salta,Rivadavia,7,0,7,0,0,7,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Salta,Rosario de la Frontera,8,0,8,0,0,8,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Salta,Rosario de Lerma,20,2,17,1,0,19,0,0,0,0.105,2,1,0,0,0,0,9,8,NaN,NaN
+Salta,Rosario de Lerma,21,2,18,1,0,20,0,0,0,0.1,2,1,0,0,0,0,9,8,NaN,NaN
 Salta,San Carlos,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Salta,Santa Victoria,5,0,5,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Salta,SIN ESPECIFICAR,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Juan,25 de Mayo,9,0,9,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Juan,9 de Julio,11,1,10,0,0,10,0,0,0,0.1,1,1,0,0,0,0,14,15,NaN,NaN
-San Juan,Albardón,19,0,19,0,0,18,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+San Juan,Albardón,20,0,20,0,0,19,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Juan,Angaco,4,0,4,0,0,4,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Juan,Calingasta,5,0,5,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-San Juan,Capital,114,1,106,7,0,106,0,0,0,0.009,1,1,0,0,0,0,9,4,NaN,NaN
-San Juan,Caucete,43,0,43,0,0,33,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-San Juan,Chimbas,68,0,67,1,0,64,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+San Juan,Capital,121,1,111,9,0,111,0,0,0,0.009,1,1,0,0,0,0,9,4,NaN,NaN
+San Juan,Caucete,44,0,43,1,0,33,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+San Juan,Chimbas,71,0,70,1,0,67,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Juan,Iglesia,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Juan,Jáchal,5,0,5,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-San Juan,Pocito,41,0,39,2,0,39,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-San Juan,Rawson,123,2,118,3,0,114,0,0,0,0.018,2,1,0,0,0,0,2.5,1.5,NaN,NaN
-San Juan,Rivadavia,99,0,96,3,0,92,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-San Juan,San Martín,13,0,10,3,0,10,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-San Juan,Santa Lucía,49,1,44,4,0,45,0,0,0,0.022,1,1,1,1,0,0,6,5,5,NaN
-San Juan,Sarmiento,10,0,10,0,0,10,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+San Juan,Pocito,42,0,42,0,0,42,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+San Juan,Rawson,123,2,119,2,0,114,0,0,0,0.018,2,1,0,0,0,0,2.5,1.5,NaN,NaN
+San Juan,Rivadavia,102,0,101,1,0,97,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+San Juan,San Martín,13,0,12,1,0,12,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+San Juan,Santa Lucía,50,1,48,1,0,47,0,0,0,0.021,1,1,1,1,0,0,6,5,5,NaN
+San Juan,Sarmiento,11,0,11,0,0,11,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Juan,SIN ESPECIFICAR,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-San Juan,Ullúm,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+San Juan,Ullúm,3,0,2,1,0,2,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Juan,Valle Fértil,6,0,6,0,0,6,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Juan,Zonda,6,0,6,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Luis,Ayacucho,15,0,15,0,0,15,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Luis,Belgrano,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-San Luis,Chacabuco,13,0,11,2,0,11,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-San Luis,Coronel Pringles,9,0,8,1,0,7,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-San Luis,General Pedernera,65,5,57,3,0,62,0,0,0,0.081,4,0.8,1,0.2,0,0,5.6,3.2,3,NaN
+San Luis,Chacabuco,15,0,14,1,0,14,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+San Luis,Coronel Pringles,9,0,9,0,0,8,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+San Luis,General Pedernera,67,5,58,4,0,63,0,0,0,0.079,4,0.8,1,0.2,0,0,5.6,3.2,3,NaN
 San Luis,Gobernador Dupuy,12,2,10,0,0,12,0,0,0,0.167,0,0,0,0,0,0,4,1,NaN,NaN
-San Luis,Junín,27,0,24,3,0,24,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-San Luis,La Capital,203,4,196,3,0,194,0,0,0,0.021,4,1,0,0,0,0,8,4,NaN,NaN
+San Luis,Junín,27,0,25,2,0,25,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+San Luis,La Capital,209,4,199,6,0,197,0,0,0,0.02,4,1,0,0,0,0,8,4,NaN,NaN
 San Luis,Libertador General San Martín,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 San Luis,SIN ESPECIFICAR,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santa Cruz,Corpen Aike,14,1,11,2,0,12,0,0,0,0.083,1,1,0,0,0,0,NaN,NaN,NaN,NaN
-Santa Cruz,Deseado,119,7,98,14,0,105,0,0,0,0.067,0,0,0,0,0,0,4.9,2,NaN,NaN
-Santa Cruz,Güer Aike,147,7,130,10,0,137,0,0,0,0.051,6,0.857,1,0.143,1,0.143,3.8,2.8,6,NaN
-Santa Cruz,Lago Argentino,120,32,85,3,0,116,0,0,0,0.276,13,0.406,3,0.094,1,0.031,9.2,4.2,7,NaN
-Santa Cruz,Lago Buenos Aires,15,0,13,2,0,13,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santa Cruz,Magallanes,55,2,46,7,0,48,0,0,0,0.042,0,0,0,0,0,0,NaN,NaN,NaN,NaN
-Santa Cruz,Río Chico,11,0,10,1,0,10,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santa Cruz,Corpen Aike,15,1,12,2,0,13,0,0,0,0.077,1,1,0,0,0,0,NaN,NaN,NaN,NaN
+Santa Cruz,Deseado,120,7,109,4,0,116,0,0,0,0.06,0,0,0,0,0,0,4.9,2,NaN,NaN
+Santa Cruz,Güer Aike,151,7,135,9,0,142,0,0,0,0.049,7,1,1,0.143,1,0.143,3.8,2.8,6,NaN
+Santa Cruz,Lago Argentino,122,32,86,4,0,117,0,0,0,0.274,13,0.406,3,0.094,1,0.031,9.2,4.2,7,NaN
+Santa Cruz,Lago Buenos Aires,15,0,15,0,0,15,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santa Cruz,Magallanes,57,2,49,6,0,51,0,0,0,0.039,0,0,0,0,0,0,NaN,NaN,NaN,NaN
+Santa Cruz,Río Chico,11,0,11,0,0,11,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Santa Fe,9 de Julio,14,0,14,0,0,14,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Santa Fe,Belgrano,72,5,67,0,0,72,0,0,0,0.069,2,0.4,0,0,0,0,5.2,4.6,NaN,NaN
-Santa Fe,Caseros,143,3,135,5,0,137,0,0,0,0.022,1,0.333,0,0,0,0,4.7,4.3,NaN,NaN
-Santa Fe,Castellanos,300,22,269,9,1,282,0,0.032,0.045,0.078,3,0.136,2,0.091,1,0.045,7,3.3,6,14
-Santa Fe,Constitución,106,9,95,2,1,102,0,0.091,0.111,0.088,2,0.222,2,0.222,1,0.111,7.4,7.2,8.5,49
+Santa Fe,Caseros,145,3,137,5,0,139,0,0,0,0.022,1,0.333,0,0,0,0,4.7,4.3,NaN,NaN
+Santa Fe,Castellanos,305,22,276,7,1,289,0,0.034,0.045,0.076,3,0.136,2,0.091,1,0.045,7,3.3,6,14
+Santa Fe,Constitución,109,9,97,3,1,104,0,0.083,0.111,0.087,2,0.222,2,0.222,1,0.111,7.4,7.2,8.5,49
 Santa Fe,Garay,33,3,29,1,0,32,0,0,0,0.094,1,0.333,1,0.333,0,0,4.7,3.3,4,NaN
-Santa Fe,General López,507,18,481,8,0,493,0,0,0,0.037,3,0.167,1,0.056,1,0.056,14.7,13.7,13,NaN
-Santa Fe,General Obligado,119,4,108,7,0,109,0,0,0,0.037,1,0.25,0,0,0,0,1.5,1.5,NaN,NaN
-Santa Fe,Iriondo,119,7,111,1,0,118,0,0,0,0.059,2,0.286,1,0.143,1,0.143,6.3,4.3,10,NaN
-Santa Fe,La Capital,1166,37,1083,46,0,1102,0,0,0,0.034,5,0.135,0,0,0,0,5.8,4.4,NaN,NaN
-Santa Fe,Las Colonias,121,4,117,0,0,121,0,0,0,0.033,0,0,0,0,0,0,5.2,3.5,NaN,NaN
-Santa Fe,Rosario,5896,124,5692,80,1,5772,0,0.005,0.008,0.021,31,0.25,4,0.032,1,0.008,5.7,5.3,7,12
-Santa Fe,San Cristóbal,42,0,39,3,0,39,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santa Fe,General López,518,18,494,6,0,505,0,0,0,0.036,3,0.167,1,0.056,1,0.056,14.7,13.7,13,NaN
+Santa Fe,General Obligado,138,7,127,4,0,131,0,0,0,0.053,1,0.143,0,0,0,0,2.5,2,NaN,NaN
+Santa Fe,Iriondo,121,7,111,3,0,118,0,0,0,0.059,2,0.286,1,0.143,1,0.143,6.3,4.3,10,NaN
+Santa Fe,La Capital,1192,37,1126,29,0,1145,0,0,0,0.032,5,0.135,0,0,0,0,5.8,4.4,NaN,NaN
+Santa Fe,Las Colonias,122,4,118,0,0,122,0,0,0,0.033,0,0,0,0,0,0,5.2,3.5,NaN,NaN
+Santa Fe,Rosario,6011,124,5809,78,1,5889,0,0.005,0.008,0.021,31,0.25,4,0.032,1,0.008,5.7,5.3,7,12
+Santa Fe,San Cristóbal,41,0,40,1,0,40,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Santa Fe,San Javier,18,1,17,0,0,16,0,0,0,0.062,1,1,0,0,0,0,4,3,NaN,NaN
-Santa Fe,San Jerónimo,89,10,76,3,0,84,0,0,0,0.119,1,0.1,0,0,0,0,7.4,4.9,NaN,NaN
-Santa Fe,San Justo,25,0,25,0,0,24,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santa Fe,San Lorenzo,451,17,428,6,0,438,0,0,0,0.039,0,0,0,0,0,0,7.9,6.4,NaN,NaN
-Santa Fe,San Martín,58,0,54,4,0,54,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santa Fe,Vera,47,1,44,2,0,37,0,0,0,0.027,1,1,1,1,0,0,4,4,7,NaN
+Santa Fe,San Jerónimo,90,10,76,4,0,84,0,0,0,0.119,1,0.1,0,0,0,0,7.4,4.9,NaN,NaN
+Santa Fe,San Justo,26,0,26,0,0,25,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santa Fe,San Lorenzo,463,17,440,6,0,450,0,0,0,0.038,0,0,0,0,0,0,7.9,6.4,NaN,NaN
+Santa Fe,San Martín,60,0,58,2,0,58,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santa Fe,Vera,47,1,46,0,0,39,0,0,0,0.026,1,1,1,1,0,0,4,4,7,NaN
 Santiago del Estero,*sin dato*,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Aguirre,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Alberdi,28,1,27,0,0,27,0,0,0,0.037,0,0,0,0,0,0,0,0,NaN,NaN
+Santiago del Estero,Aguirre,5,0,5,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Alberdi,27,0,27,0,0,26,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Santiago del Estero,Atamisqui,52,0,50,2,0,50,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Avellaneda,53,0,51,2,0,51,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Banda,112,1,106,5,0,106,0,0,0,0.009,1,1,1,1,0,0,3,1,0,NaN
-Santiago del Estero,Belgrano,4,1,2,1,0,3,0,0,0,0.333,0,0,0,0,0,0,9,6,NaN,NaN
-Santiago del Estero,Capital,267,8,248,11,0,254,0,0,0,0.031,1,0.125,1,0.125,0,0,11,10.6,9,NaN
+Santiago del Estero,Avellaneda,63,0,60,3,0,60,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Banda,113,0,110,3,0,109,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Belgrano,5,1,4,0,0,5,0,0,0,0.2,0,0,0,0,0,0,9,6,NaN,NaN
+Santiago del Estero,Capital,279,8,262,9,0,268,0,0,0,0.03,1,0.125,1,0.125,0,0,11,10.6,9,NaN
 Santiago del Estero,Choya,18,0,17,1,0,17,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Santiago del Estero,Copo,43,0,42,1,0,42,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Figueroa,41,0,40,1,0,39,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Figueroa,46,0,44,2,0,43,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Santiago del Estero,General Taboada,72,0,53,19,0,53,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Guasayán,9,0,9,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Jiménez,18,0,15,3,0,14,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Juan F. Ibarra,27,0,27,0,0,27,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Loreto,24,0,23,1,0,23,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Moreno,41,0,29,12,0,29,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Ojo de Agua,61,0,61,0,0,61,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Guasayán,10,0,9,1,0,9,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Jiménez,19,0,16,3,0,15,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Juan F. Ibarra,34,1,32,1,0,33,0,0,0,0.03,0,0,0,0,0,0,NaN,NaN,NaN,NaN
+Santiago del Estero,Loreto,25,0,24,1,0,24,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Moreno,42,0,30,12,0,30,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Ojo de Agua,67,0,67,0,0,67,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Santiago del Estero,Pellegrini,73,0,70,3,0,70,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Quebrachos,31,0,30,1,0,30,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Río Hondo,115,0,114,1,0,114,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Santiago del Estero,Rivadavia,12,2,10,0,0,12,0,0,0,0.167,0,0,0,0,0,0,7,3,NaN,NaN
-Santiago del Estero,Robles,218,4,190,24,0,194,0,0,0,0.021,0,0,0,0,0,0,2,2,NaN,NaN
-Santiago del Estero,Salavina,108,6,99,3,0,105,0,0,0,0.057,0,0,0,0,0,0,NaN,NaN,NaN,NaN
-Santiago del Estero,San Martín,9,0,9,0,0,9,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Quebrachos,34,0,33,1,0,33,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Río Hondo,126,0,124,2,0,124,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Santiago del Estero,Rivadavia,14,2,12,0,0,14,0,0,0,0.143,0,0,0,0,0,0,7,3,NaN,NaN
+Santiago del Estero,Robles,222,4,196,22,0,200,0,0,0,0.02,0,0,0,0,0,0,2,2,NaN,NaN
+Santiago del Estero,Salavina,123,6,114,3,0,120,0,0,0,0.05,0,0,0,0,0,0,NaN,NaN,NaN,NaN
+Santiago del Estero,San Martín,12,0,11,1,0,11,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Santiago del Estero,Sarmiento,2,0,2,0,0,2,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Santiago del Estero,Silípica,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-SIN ESPECIFICAR,*sin dato*,455,124,282,49,1,406,0,0.006,0.008,0.305,35,0.282,2,0.016,1,0.008,4.4,3.9,6.5,7
+SIN ESPECIFICAR,*sin dato*,485,134,294,57,1,428,0,0.005,0.007,0.313,37,0.276,3,0.022,2,0.015,4.4,3.8,6.3,7
 SIN ESPECIFICAR,Capital,1,0,1,0,0,1,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-SIN ESPECIFICAR,SIN ESPECIFICAR,85,8,72,5,0,75,0,0,0,0.107,4,0.5,2,0.25,1,0.125,10.4,7,5.5,NaN
+SIN ESPECIFICAR,SIN ESPECIFICAR,85,8,73,4,0,76,0,0,0,0.105,4,0.5,2,0.25,1,0.125,10.4,7,5.5,NaN
 Tierra del Fuego,*sin dato*,3,0,3,0,0,3,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Tierra del Fuego,Río Grande,292,10,276,6,0,284,0,0,0,0.035,2,0.2,0,0,0,0,4.6,3.4,NaN,NaN
+Tierra del Fuego,Río Grande,295,10,276,9,0,284,0,0,0,0.035,2,0.2,0,0,0,0,4.6,3.4,NaN,NaN
 Tierra del Fuego,SIN ESPECIFICAR,5,0,5,0,0,5,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Tierra del Fuego,Ushuaia,1186,126,1041,19,0,1165,0,0,0,0.108,5,0.04,2,0.016,2,0.016,7.5,5.3,11.5,NaN
+Tierra del Fuego,Ushuaia,1195,126,1054,15,0,1178,0,0,0,0.107,5,0.04,2,0.016,2,0.016,7.5,5.3,11.5,NaN
 Tucumán,*sin dato*,12,0,11,1,0,11,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Tucumán,Burruyacú,90,0,85,5,0,84,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Tucumán,Capital,1974,25,1873,76,3,1896,0,0.03,0.12,0.013,4,0.16,2,0.08,1,0.04,11,9.1,6,13
-Tucumán,Chicligasta,202,0,191,11,0,190,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Tucumán,Cruz Alta,422,2,401,19,0,403,0,0,0,0.005,1,0.5,0,0,0,0,5,2,NaN,NaN
-Tucumán,Famaillá,195,0,190,5,0,190,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Tucumán,Burruyacú,93,0,85,8,0,84,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Tucumán,Capital,2042,25,1909,108,3,1932,0,0.023,0.12,0.013,4,0.16,2,0.08,1,0.04,11,9.1,6,13
+Tucumán,Chicligasta,204,0,192,12,0,191,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Tucumán,Cruz Alta,430,2,407,21,0,409,0,0,0,0.005,1,0.5,0,0,0,0,5,2,NaN,NaN
+Tucumán,Famaillá,196,0,191,5,0,191,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Tucumán,Graneros,20,0,18,2,0,18,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Tucumán,Juan Bautista Alberdi,35,0,33,2,0,32,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Tucumán,Juan Bautista Alberdi,35,0,34,1,0,33,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Tucumán,La Cocha,46,0,46,0,0,46,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Tucumán,Leales,149,0,143,6,0,143,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Tucumán,Lules,155,1,145,9,0,146,0,0,0,0.007,0,0,0,0,0,0,NaN,NaN,NaN,NaN
-Tucumán,Monteros,352,1,329,21,0,330,1,0,0,0.003,0,0,0,0,0,0,NaN,NaN,NaN,NaN
-Tucumán,Río Chico,160,1,149,10,0,150,0,0,0,0.007,1,1,1,1,1,1,9,6,5,NaN
-Tucumán,Simoca,126,0,119,7,0,119,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Tucumán,Leales,150,0,143,7,0,143,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
+Tucumán,Lules,160,1,149,10,0,150,0,0,0,0.007,0,0,0,0,0,0,NaN,NaN,NaN,NaN
+Tucumán,Monteros,356,1,333,21,0,334,1,0,0,0.003,0,0,0,0,0,0,NaN,NaN,NaN,NaN
+Tucumán,Río Chico,166,1,149,16,0,150,0,0,0,0.007,1,1,1,1,1,1,9,6,5,NaN
+Tucumán,Simoca,129,0,121,8,0,121,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Tucumán,SIN ESPECIFICAR,15,0,15,0,0,15,0,NaN,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
 Tucumán,Tafí del Valle,17,0,16,1,0,16,0,0,NaN,0,0,NaN,0,NaN,0,NaN,NaN,NaN,NaN,NaN
-Tucumán,Tafí Viejo,366,4,342,20,0,345,0,0,0,0.012,2,0.5,0,0,0,0,5,3.7,NaN,NaN
-Tucumán,Trancas,73,2,50,21,0,52,0,0,0,0.038,0,0,0,0,0,0,1,1,NaN,NaN
-Tucumán,Yerba Buena,365,11,326,28,1,336,0,0.026,0.091,0.033,2,0.182,1,0.091,0,0,9.7,7.1,3,18
+Tucumán,Tafí Viejo,382,4,351,27,0,354,0,0,0,0.011,2,0.5,0,0,0,0,5,3.7,NaN,NaN
+Tucumán,Trancas,83,2,55,26,0,57,0,0,0,0.035,0,0,0,0,0,0,1,1,NaN,NaN
+Tucumán,Yerba Buena,380,11,333,36,1,343,0,0.021,0.091,0.032,2,0.182,1,0.091,0,0,9.7,7.1,3,18
