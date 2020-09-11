@@ -4002,7 +4002,6 @@
 "2020-05-22","Río Negro","62","Adolfo Alsina","007","VIEDMA","090","Público","Provincial","2020-09-09","5",
 "2020-05-22","Chaco","22","San Fernando","140","RESISTENCIA","060","Público","Provincial","2020-09-09","170","33"
 "2020-05-22","La Pampa","42","Capital","021","SANTA ROSA","020","Público","Provincial","2020-09-09","1",
-"2020-05-22","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","1","1"
 "2020-05-22","CABA","02","COMUNA 01","001","RETIRO","010","Privado","Privado","2020-09-09","33","5"
 "2020-05-22","Salta","66","Capital","028","SALTA","050","Público","Provincial","2020-09-09","68","1"
 "2020-05-22","Río Negro","62","Bariloche","021","SAN CARLOS DE BARILOCHE","060","Público","Provincial","2020-09-09","26","4"
@@ -4038,6 +4037,7 @@
 "2020-05-22","San Luis","74","La Capital","056","SAN LUIS","150","Público","Provincial","2020-09-09","6",
 "2020-05-22","Salta","66","Capital","028","SALTA","050","Privado","Privado","2020-09-09","30",
 "2020-05-22","CABA","02","COMUNA 13","013","BELGRANO","010","Privado","Privado","2020-09-09","2",
+"2020-05-22","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","1","1"
 "2020-05-22","Buenos Aires","06","Quilmes","658","BERNAL","010","Público","Nacional","2020-09-09","41","34"
 "2020-05-22","La Rioja","46","Capital","014","LA RIOJA","010","Público","Provincial","2020-09-09","15","1"
 "2020-05-22","La Pampa","42","Maracó","105","GENERAL PICO","030","Público","Provincial","2020-09-09","2",
@@ -10261,7 +10261,6 @@
 "2020-07-17","La Rioja","46","Capital","014","LA RIOJA","010","Público","Provincial","2020-09-09","64","19"
 "2020-07-17","CABA","02","COMUNA 01","001","SAN NICOLAS","010","Privado","Privado","2020-09-09","92","50"
 "2020-07-17","Buenos Aires","06","La Plata","441","LA PLATA","030","Público","Provincial","2020-09-09","325","100"
-"2020-07-17","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","1","1"
 "2020-07-17","Corrientes","18","Capital","021","CORRIENTES","020","Público","Provincial","2020-09-09","14",
 "2020-07-17","CABA","02","COMUNA 04","004","BOCA","010","Público","Municipal","2020-09-09","120","46"
 "2020-07-17","Río Negro","62","General Roca","042","GENERAL ROCA","450","Público","Provincial","2020-09-09","52","13"
@@ -10339,6 +10338,7 @@
 "2020-07-17","Buenos Aires","06","La Plata","441","VILLA ELISA","030","Privado","Privado","2020-09-09","1",
 "2020-07-17","Buenos Aires","06","Merlo","539","PONTEVEDRA","010","Público","Municipal","2020-09-09","2",
 "2020-07-17","Río Negro","62","General Roca","042","VILLA REGINA","560","Público","Provincial","2020-09-09","4","1"
+"2020-07-17","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","1","1"
 "2020-07-17","Buenos Aires","06","General Pueyrredón","357","MAR DEL PLATA","110","Público","Provincial","2020-09-09","19","3"
 "2020-07-17","Mendoza","50","Capital","007","3A. SECCION","010","Público","Provincial","2020-09-09","77","3"
 "2020-07-17","CABA","02","COMUNA 03","003","BALVANERA","010","Privado","Privado","2020-09-09","41","13"
@@ -15958,7 +15958,6 @@
 "2020-08-19","Mendoza","50","Capital","007","3A. SECCION","010","Privado","Privado","2020-09-09","1","1"
 "2020-08-19","Buenos Aires","06","Esteban Echeverría","260","MONTE GRANDE","010","Público","Municipal","2020-09-09","89","50"
 "2020-08-19","Buenos Aires","06","Ezeiza","270","AEROPUERTO INTERNACIONAL EZEIZA","010","Público","Provincial","2020-09-09","44","31"
-"2020-08-19","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","9","5"
 "2020-08-19","Buenos Aires","06","Esteban Echeverría","260","MONTE GRANDE","010","Público","Nacional","2020-09-09","6","3"
 "2020-08-19","CABA","02","COMUNA 15","015","PATERNAL","010","Público","Municipal","2020-09-09","1","1"
 "2020-08-19","CABA","02","COMUNA 04","004","PARQUE PATRICIOS","010","Público","Nacional","2020-09-09","784","302"
@@ -16012,6 +16011,7 @@
 "2020-08-19","Buenos Aires","06","Berazategui","091","BERAZATEGUI","010","Público","Provincial","2020-09-09","11","4"
 "2020-08-19","CABA","02","COMUNA 01","001","RETIRO","010","Privado","Privado","2020-09-09","162","39"
 "2020-08-19","Buenos Aires","06","Morón","568","VILLA SARMIENTO","010","Público","Nacional","2020-09-09","338","143"
+"2020-08-19","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","9","5"
 "2020-08-19","Buenos Aires","06","San Antonio de Areco","735","SAN ANTONIO DE ARECO","020","Público","Municipal","2020-09-09","4","2"
 "2020-08-19","Buenos Aires","06","Morón","568","VILLA SARMIENTO","010","Privado","Privado","2020-09-09","1","1"
 "2020-08-19","Buenos Aires","06","General Pueyrredón","357","MAR DEL PLATA","110","Privado","Privado","2020-09-09","39","34"
@@ -16191,7 +16191,6 @@
 "2020-08-20","Buenos Aires","06","Merlo","539","SAN ANTONIO DE PADUA","010","Público","Municipal","2020-09-09","59","17"
 "2020-08-20","Entre Ríos","30","Uruguay","098","CONCEPCION DEL URUGUAY","040","Público","Nacional","2020-09-09","13","1"
 "2020-08-20","Tucumán","90","Chicligasta","021","CONCEPCION","050","Privado","Privado","2020-09-09","4",
-"2020-08-20","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","17","7"
 "2020-08-20","Buenos Aires","06","Esteban Echeverría","260","MONTE GRANDE","010","Público","Municipal","2020-09-09","128","55"
 "2020-08-20","Buenos Aires","06","Escobar","252","MATHEU","010","Público","Municipal","2020-09-09","43","9"
 "2020-08-20","Buenos Aires","06","Pilar","638","PRESIDENTE DERQUI","040","Privado","Privado","2020-09-09","84","59"
@@ -16280,6 +16279,7 @@
 "2020-08-20","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Privado","2020-09-09","1","1"
 "2020-08-20","Formosa","34","Formosa","014","FORMOSA","020","Público","Provincial","2020-09-09","220",
 "2020-08-20","Mendoza","50","Maipú","070","GENERAL GUTIERREZ","060","Público","Provincial","2020-09-09","1","1"
+"2020-08-20","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","17","7"
 "2020-08-20","La Pampa","42","Maracó","105","GENERAL PICO","030","Público","Provincial","2020-09-09","7",
 "2020-08-20","Chaco","22","San Fernando","140","RESISTENCIA","060","Público","Provincial","2020-09-09","310","47"
 "2020-08-20","Buenos Aires","06","Avellaneda","035","WILDE","010","Público","Provincial","2020-09-09","58","19"
@@ -16857,7 +16857,6 @@
 "2020-08-24","Buenos Aires","06","Coronel de Marina L. Rosales","182","PUNTA ALTA","030","Público","Municipal","2020-09-09","1",
 "2020-08-24","CABA","02","COMUNA 04","004","PARQUE PATRICIOS","010","Público","Nacional","2020-09-09","604","289"
 "2020-08-24","Buenos Aires","06","Florencio Varela","274","GOBERNADOR JULIO A. COSTA","010","Público","Provincial","2020-09-09","58","29"
-"2020-08-24","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","1",
 "2020-08-24","CABA","02","COMUNA 07","007","FLORES","010","Privado","Privado","2020-09-09","116","52"
 "2020-08-24","Río Negro","62","General Roca","042","GENERAL ROCA","450","Público","Provincial","2020-09-09","70","51"
 "2020-08-24","Buenos Aires","06","Bahía Blanca","056","BAHIA BLANCA","010","Privado","Obra social","2020-09-09","1","1"
@@ -16910,6 +16909,7 @@
 "2020-08-24","Buenos Aires","06","La Plata","441","LA PLATA","030","Público","Universitario público","2020-09-09","246","129"
 "2020-08-24","Río Negro","62","General Roca","042","GENERAL ROCA","450","Privado","Privado","2020-09-09","8","3"
 "2020-08-24","Formosa","34","Formosa","014","FORMOSA","020","Público","Provincial","2020-09-09","77",
+"2020-08-24","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","1",
 "2020-08-24","Mendoza","50","Capital","007","1A. SECCION","010","Privado","Privado","2020-09-09","32",
 "2020-08-24","San Luis","74","La Capital","056","SAN LUIS","150","Público","Provincial","2020-09-09","52",
 "2020-08-24","Buenos Aires","06","General Pueyrredón","357","MAR DEL PLATA","110","Público","Provincial","2020-09-09","80","38"
@@ -17200,6 +17200,7 @@
 "2020-08-25","Mendoza","50","Capital","007","1A. SECCION","010","Privado","Privado","2020-09-09","66","8"
 "2020-08-25","Córdoba","14","Río Cuarto","098","RIO CUARTO","230","Público","Provincial","2020-09-09","1","1"
 "2020-08-25","Buenos Aires","06","Pergamino","623","PERGAMINO","100","Público","Nacional","2020-09-09","171","60"
+"2020-08-25","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","2","2"
 "2020-08-25","Buenos Aires","06","Morón","568","MORON","010","Privado","Privado","2020-09-09","1","1"
 "2020-08-25","Santa Fe","82","Castellanos","021","RAFAELA","310","Privado","Privado","2020-09-09","55","5"
 "2020-08-25","Mendoza","50","Capital","007","7A. SECCION","010","Público","Provincial","2020-09-09","256","60"
@@ -17229,7 +17230,6 @@
 "2020-08-25","CABA","02","COMUNA 02","002","RECOLETA","010","Público","Municipal","2020-09-09","344","87"
 "2020-08-25","Formosa","34","Formosa","014","FORMOSA","020","Público","Provincial","2020-09-09","117",
 "2020-08-25","CABA","02","COMUNA 13","013","BELGRANO","010","Privado","Privado","2020-09-09","9",
-"2020-08-25","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","2","2"
 "2020-08-25","CABA","02","COMUNA 11","011","VILLA DEL PARQUE","010","Privado","Privado","2020-09-09","64","28"
 "2020-08-25","Santa Cruz","78","Deseado","014","CALETA OLIVIA","010","Público","Provincial","2020-09-09","82","36"
 "2020-08-25","Buenos Aires","06","Pilar","638","ZELAYA","040","Privado","Privado","2020-09-09","1",
@@ -18443,7 +18443,7 @@
 "2020-08-31","CABA","02","COMUNA 07","007","FLORES","010","Privado","Privado","2020-09-09","130","43"
 "2020-08-31","Buenos Aires","06","Escobar","252","GARIN","010","Público","Municipal","2020-09-09","4","1"
 "2020-08-31","La Pampa","42","Maracó","105","GENERAL PICO","030","Público","Provincial","2020-09-09","16","2"
-"2020-08-31","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","25","13"
+"2020-08-31","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","25","13"
 "2020-08-31","Buenos Aires","06","Cañuelas","134","CAÑUELAS","030","Público","Nacional","2020-09-09","31","18"
 "2020-08-31","Mendoza","50","San Rafael","105","SAN RAFAEL  (CIUDAD DE SAN RAFAEL)","210","Público","Provincial","2020-09-09","34","9"
 "2020-08-31","CABA","02","COMUNA 10","010","MONTE CASTRO","010","Público","Municipal","2020-09-09","4",
@@ -18551,6 +18551,7 @@
 "2020-09-01","Chubut","26","Escalante","021","COMODORO RIVADAVIA","030","Privado","Privado","2020-09-09","2",
 "2020-09-01","Buenos Aires","06","Tres Arroyos","833","TRES ARROYOS","100","Público","Municipal","2020-09-09","1",
 "2020-09-01","Buenos Aires","06","Avellaneda","035","WILDE","010","Privado","Privado","2020-09-09","9","2"
+"2020-09-01","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","40","24"
 "2020-09-01","Buenos Aires","06","Moreno","560","MORENO","010","Privado","Privado","2020-09-09","22","3"
 "2020-09-01","La Pampa","42","Maracó","105","GENERAL PICO","030","Público","Provincial","2020-09-09","27","3"
 "2020-09-01","Buenos Aires","06","Merlo","539","MERLO","010","Privado","Privado","2020-09-09","3","2"
@@ -18601,7 +18602,6 @@
 "2020-09-01","CABA","02","COMUNA 04","004","PARQUE PATRICIOS","010","Público","FFAA/Seguridad","2020-09-09","136","58"
 "2020-09-01","Santa Fe","82","Rosario","084","ROSARIO","270","Público","Provincial","2020-09-09","203","106"
 "2020-09-01","Buenos Aires","06","San Miguel","760","BELLA VISTA","010","Público","Municipal","2020-09-09","162","84"
-"2020-09-01","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","40","24"
 "2020-09-01","Santa Fe","82","Rosario","084","GRANADERO BAIGORRIA","160","Público","Provincial","2020-09-09","29","23"
 "2020-09-01","Mendoza","50","Capital","007","1A. SECCION","010","Privado","Privado","2020-09-09","31","15"
 "2020-09-01","Buenos Aires","06","La Matanza","427","ISIDRO CASANOVA","010","Público","Provincial","2020-09-09","87","42"
@@ -18880,7 +18880,7 @@
 "2020-09-02","Buenos Aires","06","Lomas de Zamora","490","TEMPERLEY","010","Privado","Privado","2020-09-09","204","75"
 "2020-09-02","Chaco","22","San Fernando","140","RESISTENCIA","060","Público","Nacional","2020-09-09","149","38"
 "2020-09-02","Santa Fe","82","General López","042","VENADO TUERTO","290","Privado","Privado","2020-09-09","98","61"
-"2020-09-02","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","11","5"
+"2020-09-02","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","11","5"
 "2020-09-02","CABA","02","COMUNA 12","012","COGHLAN","010","Público","Municipal","2020-09-09","35","5"
 "2020-09-02","Buenos Aires","06","La Plata","441","LA PLATA","030","Privado","Privado","2020-09-09","235","112"
 "2020-09-02","Jujuy","38","Ledesma","035","LIBERTADOR GENERAL SAN MARTIN","080","Público","Provincial","2020-09-09","1","1"
@@ -19081,7 +19081,6 @@
 "2020-09-03","Buenos Aires","06","Mercedes","532","MERCEDES","020","Público","Provincial","2020-09-09","156","52"
 "2020-09-03","Buenos Aires","06","Pergamino","623","PERGAMINO","100","Público","Nacional","2020-09-09","154","84"
 "2020-09-03","Buenos Aires","06","Esteban Echeverría","260","MONTE GRANDE","010","Público","Municipal","2020-09-09","68","27"
-"2020-09-03","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","132","94"
 "2020-09-03","Buenos Aires","06","Avellaneda","035","SARANDI","010","Público","Provincial","2020-09-09","18","8"
 "2020-09-03","Mendoza","50","San Rafael","105","SAN RAFAEL  (CIUDAD DE SAN RAFAEL)","210","Privado","Privado","2020-09-09","1",
 "2020-09-03","Córdoba","14","Río Cuarto","098","RIO CUARTO","230","Privado","Privado","2020-09-09","10","2"
@@ -19114,6 +19113,7 @@
 "2020-09-03","Buenos Aires","06","Bolívar","105","SAN CARLOS DE BOLIVAR","060","Público","Municipal","2020-09-09","23","8"
 "2020-09-03","Córdoba","14","Tercero Arriba","161","RIO TERCERO","150","Privado","Privado","2020-09-09","5","2"
 "2020-09-03","CABA","02","COMUNA 06","006","CABALLITO","010","Público","Municipal","2020-09-09","236","90"
+"2020-09-03","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","132","94"
 "2020-09-03","Buenos Aires","06","Almirante Brown","028","ADROGUE","010","Público","Municipal","2020-09-09","7","1"
 "2020-09-03","Chubut","26","Futaleufú","035","ESQUEL","030","Privado","Privado","2020-09-09","2",
 "2020-09-03","Buenos Aires","06","Lobería","476","LOBERIA","030","Privado","Privado","2020-09-09","1","1"
@@ -19248,7 +19248,6 @@
 "2020-09-04","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Privado","2020-09-09","9","4"
 "2020-09-04","Buenos Aires","06","La Plata","441","LA PLATA","030","Privado","Privado","2020-09-09","211","79"
 "2020-09-04","Buenos Aires","06","Pergamino","623","PERGAMINO","100","Público","Nacional","2020-09-09","87","53"
-"2020-09-04","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","43","29"
 "2020-09-04","Salta","66","Capital","028","SALTA","050","Privado","Privado","2020-09-09","1037","328"
 "2020-09-04","Santa Fe","82","Rosario","084","ROSARIO","270","Público","Provincial","2020-09-09","220","148"
 "2020-09-04","Jujuy","38","Palpalá ","042","PALPALA","040","Privado","Privado","2020-09-09","63","12"
@@ -19334,6 +19333,7 @@
 "2020-09-04","Buenos Aires","06","Hurlingham","408","HURLINGHAM","010","Privado","Privado","2020-09-09","22","13"
 "2020-09-04","CABA","02","COMUNA 02","002","RECOLETA","010","Privado","Privado","2020-09-09","1278","438"
 "2020-09-04","Santa Fe","82","General López","042","VENADO TUERTO","290","Privado","Privado","2020-09-09","97","56"
+"2020-09-04","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","43","29"
 "2020-09-04","Buenos Aires","06","Lomas de Zamora","490","LLAVALLOL","010","Público","Municipal","2020-09-09","1","1"
 "2020-09-04","Buenos Aires","06","General San Martín","371","GENERAL SAN MARTÍN","010","Público","Provincial","2020-09-09","88","42"
 "2020-09-04","Buenos Aires","06","La Matanza","427","RAMOS MEJIA","010","Privado","Privado","2020-09-09","51","9"
@@ -19572,6 +19572,7 @@
 "2020-09-05","Buenos Aires","06","Bahía Blanca","056","BAHIA BLANCA","010","Público","Provincial","2020-09-09","143","31"
 "2020-09-05","CABA","02","COMUNA 15","015","VILLA CRESPO","010","Privado","Privado","2020-09-09","194","62"
 "2020-09-05","Santa Fe","82","Rosario","084","ROSARIO","270","Público","Municipal","2020-09-09","162","160"
+"2020-09-05","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","24","17"
 "2020-09-05","Buenos Aires","06","Ezeiza","270","AEROPUERTO INTERNACIONAL EZEIZA","010","Público","Provincial","2020-09-09","4","3"
 "2020-09-05","Buenos Aires","06","Bahía Blanca","056","BAHIA BLANCA","010","Público","Municipal","2020-09-09","1","1"
 "2020-09-05","Buenos Aires","06","General San Martín","371","GENERAL SAN MARTÍN","010","Privado","Privado","2020-09-09","3","1"
@@ -19597,7 +19598,6 @@
 "2020-09-05","CABA","02","COMUNA 04","004","PARQUE PATRICIOS","010","Privado","Privado","2020-09-09","28","11"
 "2020-09-05","Jujuy","38","San Pedro","063","LA ESPERANZA","070","Público","Provincial","2020-09-09","1","1"
 "2020-09-05","Chubut","26","Rawson","077","TRELEW","040","Público","Provincial","2020-09-09","55","15"
-"2020-09-05","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","24","17"
 "2020-09-05","Buenos Aires","06","Malvinas Argentinas","515","PABLO NOGUES","060","Público","Municipal","2020-09-09","395","158"
 "2020-09-05","CABA","02","COMUNA 04","004","BARRACAS","010","Privado","Privado","2020-09-09","50","14"
 "2020-09-05","Buenos Aires","06","Olavarría","595","OLAVARRIA","070","Público","Municipal","2020-09-09","90","68"
@@ -19778,6 +19778,7 @@
 "2020-09-07","Buenos Aires","06","Olavarría","595","OLAVARRIA","070","Público","Municipal","2020-09-09","82","1"
 "2020-09-07","Mendoza","50","Capital","007","1A. SECCION","010","Privado","Privado","2020-09-09","115","72"
 "2020-09-07","Buenos Aires","06","Mercedes","532","MERCEDES","020","Público","Provincial","2020-09-09","110","31"
+"2020-09-07","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","91","47"
 "2020-09-07","CABA","02","COMUNA 14","014","PALERMO","010","Privado","Privado","2020-09-09","1161","467"
 "2020-09-07","Buenos Aires","06","Escobar","252","MAQUINISTA F. SAVIO ESTE","010","Público","Provincial","2020-09-09","43","12"
 "2020-09-07","Santa Fe","82","La Capital","063","SANTA FE","170","Privado","Privado","2020-09-09","38","9"
@@ -19932,7 +19933,6 @@
 "2020-09-07","Santa Fe","82","Rosario","084","GRANADERO BAIGORRIA","160","Público","Provincial","2020-09-09","9","6"
 "2020-09-07","CABA","02","COMUNA 08","008","VILLA SOLDATI","010","Público","Municipal","2020-09-09","1","1"
 "2020-09-07","Buenos Aires","06","Florencio Varela","274","FLORENCIO VARELA","010","Privado","Mixta","2020-09-09","178","78"
-"2020-09-07","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","91","47"
 "2020-09-07","CABA","02","COMUNA 01","001","MONSERRAT","010","Privado","Privado","2020-09-09","2","2"
 "2020-09-07","Mendoza","50","Godoy Cruz","021","GODOY CRUZ","010","Privado","Obra social","2020-09-09","44","27"
 "2020-09-07","CABA","02","COMUNA 06","006","CABALLITO","010","Público","Municipal","2020-09-09","214","45"
@@ -20129,7 +20129,7 @@
 "2020-09-08","Chubut","26","Futaleufú","035","ESQUEL","030","Privado","Privado","2020-09-09","3",
 "2020-09-08","Buenos Aires","06","Florencio Varela","274","VILLA VATTEONE","010","Público","Provincial","2020-09-09","77","45"
 "2020-09-08","Buenos Aires","06","Hurlingham","408","HURLINGHAM","010","Público","Nacional","2020-09-09","202","93"
-"2020-09-08","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","104","15"
+"2020-09-08","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","104","15"
 "2020-09-08","Buenos Aires","06","Tigre","805","TIGRE","010","Público","Municipal","2020-09-09","47","26"
 "2020-09-08","Buenos Aires","06","Florencio Varela","274","GOBERNADOR JULIO A. COSTA","010","Público","Provincial","2020-09-09","16","10"
 "2020-09-08","CABA","02","COMUNA 02","002","RECOLETA","010","Público","Universitario público","2020-09-09","988","424"
@@ -20220,7 +20220,6 @@
 "2020-09-09","Chubut","26","Futaleufú","035","ESQUEL","030","Público","Provincial","2020-09-09","12","1"
 "2020-09-09","Buenos Aires","06","Morón","568","VILLA SARMIENTO","010","Público","Nacional","2020-09-09","2","1"
 "2020-09-09","Santa Fe","82","San Lorenzo","119","SAN LORENZO","130","Público","Provincial","2020-09-09","1",
-"2020-09-09","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Mixta","2020-09-09","117","40"
 "2020-09-09","Mendoza","50","Capital","007","7A. SECCION","010","Público","Provincial","2020-09-09","9","3"
 "2020-09-09","Buenos Aires","06","Presidente Perón","648","GUERNICA","010","Privado","Privado","2020-09-09","5","4"
 "2020-09-09","CABA","02","COMUNA 07","007","PARQUE CHACABUCO","010","Privado","Privado","2020-09-09","13",
@@ -20246,6 +20245,7 @@
 "2020-09-09","CABA","02","COMUNA 14","014","PALERMO","010","Público","Municipal","2020-09-09","17","17"
 "2020-09-09","CABA","02","COMUNA 03","003","BALVANERA","010","Privado","Obra social","2020-09-09","9","1"
 "2020-09-09","Mendoza","50","San Rafael","105","SAN RAFAEL  (CIUDAD DE SAN RAFAEL)","210","Público","Provincial","2020-09-09","2","1"
+"2020-09-09","SIN ESPECIFICAR","99","SIN ESPECIFICAR","0","CIUDAD DE BUENOS AIRES","010","Privado","Obra social","2020-09-09","117","40"
 "2020-09-09","Río Negro","62","General Roca","042","VILLA REGINA","560","Público","Provincial","2020-09-09","22","22"
 "2020-09-09","Entre Ríos","30","Paraná","084","PARANA","160","Privado","Privado","2020-09-09","23","7"
 "2020-09-09","Buenos Aires","06","La Matanza","427","RAMOS MEJIA","010","Privado","Privado","2020-09-09","37","22"
